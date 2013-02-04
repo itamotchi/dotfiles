@@ -1,2 +1,0 @@
-
-((digest . "4d3641f69a1615d1874790e96d6d2434") (undo-list nil (3061 . 3065) nil (#("proj" 0 4 (fontified t face font-lock-string-face)) . 3061) nil (3166 . 3172) nil (#("p" 0 1 (fontified t face font-lock-string-face)) . -3166) nil (3166 . 3167) nil (#("higoya" 0 6 (fontified t face font-lock-string-face)) . 3166) nil (3059 . 3065) nil (#("higoya" 0 6 (fontified t face font-lock-string-face)) . 3059) (t 20698 . 53581)))

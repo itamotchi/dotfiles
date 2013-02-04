@@ -1,2 +1,0 @@
-
-((digest . "63b3eaa12df254955e319a480637c373") (undo-list nil (396 . 403) nil (177 . 183) nil (#("manager" 0 7 (fontified t face font-lock-variable-name-face)) . 177) nil (115 . 122) nil (97 . 103) nil (123 . 133) nil (#("pagingManager" 0 13 (fontified t face font-lock-function-name-face)) . 123) nil (499 . 509) nil (#("addLocale" 0 9 (fontified t face font-lock-function-name-face)) . 499) (t 20694 . 53028)))

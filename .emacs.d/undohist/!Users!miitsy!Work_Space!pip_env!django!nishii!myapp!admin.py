@@ -1,2 +1,0 @@
-
-((digest . "20b1c07d5c67dc9ccbf3e0c88dd00e8c") (undo-list nil (#("." 0 1 (fontified t)) . 121) nil (#("nishii" 0 6 (fontified t)) . 121) ((marker) . -6) nil (#("." 0 1 (fontified t)) . 86) nil (#("nishii" 0 6 (fontified t)) . 86) ((marker) . -6) nil (#("." 0 1 (fontified t)) . 39) nil (#("nishii" 0 6 (fontified t)) . 39) (t 20714 . 24778) ((marker) . -6) nil (#("hisayoshi" 0 9 (fontified t)) . 141) ((marker) . -9) nil (#("hisayoshi" 0 9 (fontified t)) . 99) ((marker) . -9) nil (#("hisayoshi" 0 9 (fontified t)) . 45) (t 20604 . 46498) ((marker) . -9)))

@@ -1,2 +1,0 @@
-
-((digest . "ca25a18633df5f7cf5e795fb13f9c83c") (undo-list nil (3164 . 3170) nil (#("higoya" 0 6 (fontified t face font-lock-string-face)) . 3164) nil (3057 . 3063) nil (#("iroha" 0 5 (fontified t face font-lock-string-face)) . 3057) nil (3057 . 3062) nil (#("higoya" 0 6 (fontified t face font-lock-string-face)) . 3057) nil (299 . 304) nil (#("higoya" 0 6 (fontified t face font-lock-string-face)) . 299) nil (47 . 52) nil (#("higoya" 0 6 (fontified t face font-lock-comment-face)) . 47) (t 20698 . 53581)))

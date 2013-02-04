@@ -1,2 +1,0 @@
-
-((digest . "7cc37acbd46b3f67e038d8386d434305") (undo-list nil (19 . 25) nil (50 . 56) nil (48 . 50) nil (86 . 92) nil (84 . 86) nil (#("  {% block on_load %}{% endblock %}" 0 35 (fontified t)) . 84) ((marker) . -35) nil (#("K" 0 1 (fontified t)) . -84) nil (84 . 85) nil (#("  {% block on_ready %}{% endblock %}" 0 36 (fontified t)) . 48) ((marker) . -36) nil (17 . 19) nil (#("  {% block head %}{% endblock %}" 0 32 (fontified t)) . 17) (t 20682 . 32286) ((marker) . -32)))

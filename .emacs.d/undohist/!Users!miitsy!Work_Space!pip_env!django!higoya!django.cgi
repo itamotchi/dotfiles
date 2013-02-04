@@ -1,2 +1,0 @@
-
-((digest . "35e72e77ed95e0e0ce754d9097205445") (undo-list nil (3557 . 3563) nil (#("iroha" 0 5 (fontified t face font-lock-string-face)) . 3557) ((marker) . -5) nil (#("iroha--design" 0 13 (fontified nil)) . -3542) (3555 . 3562) (#("iroha--design" 0 13 (fontified t face font-lock-string-face)) . -1408) (1421 . 1428) (#("iroha--design" 0 13 (fontified t face font-lock-string-face)) . -1332) (1345 . 1352) (#("iroha--design" 0 13 (fontified t face font-lock-string-face)) . -1282) (t 20704 . 53118) (1295 . 1302) 1 (t 20704 . 53118)))

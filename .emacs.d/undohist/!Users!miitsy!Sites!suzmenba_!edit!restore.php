@@ -1,2 +1,0 @@
-
-((digest . "de5553dc6a793ca47df03efdf5826df7") (undo-list nil (288 . 290) (#("    " 0 4 (fontified t)) . 288) ((marker* . 290) . 4) ((marker* . 290) . 4) ((marker* . 290) . 4) (149 . 151) (#("	" 0 1 (fontified t)) . 149) ((marker* . 151) . 1) ((marker* . 151) . 1) ((marker* . 151) . 1) (90 . 92) (#("	" 0 1 (fontified t)) . 90) ((marker* . 92) . 1) ((marker* . 92) . 1) nil (#("i" 0 1 (fontified t face font-lock-warning-face)) . -326) nil (326 . 327) (t 20151 . 51504)))

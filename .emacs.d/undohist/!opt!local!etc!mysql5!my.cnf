@@ -1,4 +1,0 @@
-
-((digest . "199ad9d1b4987fb48282081feda9a0fb") (undo-list nil ("
-" . 950) ((marker . 1743) . -1) ((marker . 1743) . -1) ((marker) . -1) nil ("skip-character-set-client-handshake" . 950) ((marker) . -35) nil ("
-" . 1049) ((marker . 978) . -1) ((marker . 978) . -1) ((marker) . -1) nil ("init-connect = SET NAMES utf8" . 1049) ((marker) . -29) nil (950 . 1078) nil (949 . 950) (t 19838 . 57) nil (725 . 753) nil (724 . 725) nil (892 . 920) nil ("default-character-set = utf8" . 892) (t 19837 . 65403) nil (907 . 920) nil ("o" . -907) nil (892 . 908) nil (892 . 893) (t 19837 . 64851)))

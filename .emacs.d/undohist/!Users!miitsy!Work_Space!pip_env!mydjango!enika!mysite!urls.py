@@ -1,3 +1,0 @@
-
-((digest . "aff100155b7576435a44761ec67985a2") (undo-list nil (#("
-" 0 1 (fontified t)) . 315) ((marker) . -1) ((marker) . -1) ((marker) . -1) nil (#("    url(r'^(?P<path>[a-zA-Z0-9_-]+\\.css)', 'mysite.views.scss_processor')," 0 9 (fontified t) 9 41 (fontified t face font-lock-string-face) 41 43 (fontified t) 43 72 (fontified t face font-lock-string-face) 72 74 (fontified t)) . 315) (t 20686 . 33657) ((marker) . -74) nil (388 . 389) nil (375 . 388) nil (355 . 375) nil (348 . 355) nil (334 . 348) nil (#("[" 0 1 (face font-lock-string-face fontified t)) . -334) nil (#("a" 0 1 (face font-lock-string-face fontified t)) . -335) nil (319 . 336) nil (315 . 319) nil (314 . 315) (t 20678 . 54445) nil (203 . 210) (t 20672 . 34273)))
