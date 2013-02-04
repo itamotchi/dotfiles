@@ -1,0 +1,26 @@
+
+((digest . "45afb65fadaa8e6e11572f18d9dd4c84") (undo-list nil (136 . 143) (t 20730 . 30657) nil (179 . 185) nil ("w" . -179) nil ("w" . -180) nil ("w" . -181) nil ("w" . -182) nil ("w" . -183) nil ("w" . -184) nil ("w" . -185) nil ("w" . -186) nil ("w" . -187) nil ("w" . -188) nil ("w" . -189) nil (179 . 190) nil (175 . 179) nil ("i" . -175) nil (163 . 176) nil (145 . 163) nil ("/" . 136) ((marker . 192) . -1) nil (".cgi" . 136) nil ("django" . 136) (t 20730 . 30585) nil (136 . 147) nil ("
+" . 146) nil ("RewriteRule" . 146) nil (146 . 157) (t 20730 . 30393) nil ("RewriteCond \"%{HTTP_HOST}\" \"^enika-itamotchi\\.sakura\\.ne\\.jp$\"
+RewriteCond \"%{REQUEST_URI}\" \"!^/secure/\"
+RewriteRule \"(.*)\" \"http://enika-itamotchi.com/$1\" [L,R]
+
+RewriteCond \"%{REQUEST_FILENAME}\" \"google.+\\.html\"
+RewriteRule \"(.*)\" \"$1\" [L]
+
+RewriteCond \"%{HTTP_HOST}\" \"^(www\\.)?enika-itamotchi\\.com$\" [OR]
+RewriteCond \"%{HTTP_HOST}\" \"^enika-itamotchi\\.sakura\\.ne\\.jp$\"
+RewriteCond \"%{REQUEST_FILENAME}\" \"\\.html\"
+RewriteRule \"(.*)\" \"/django.cgi/$1\" [L]
+" . -147) nil ("
+" . 79) nil ("RewriteCond \"%{REQUEST_URI}\" \"^/secure/\"" . 79) (t 20730 . 30372) nil ("#" . 293) nil ("#" . 251) nil ("#" . 188) nil (188 . 189) nil (251 . 252) nil (293 . 294) nil (19 . 188) (t 20730 . 30284) nil ("RewriteCond \"%{HTTP_HOST}\" \"^(www\\.)?enika-itamotchi\\.com$\"
+RewriteCond \"%{REQUEST_URI}\" \"^/secure/\"
+RewriteRule \"(.*)\" \"https://enika-itamotchi.sakura.ne.jp/$1\" [L,R]
+
+" . -19) nil ("#" . 293) nil ("#" . 251) nil ("#" . 188) (t 20730 . 30179) nil ("#" . 405) nil ("#" . 354) nil ("#" . 120) nil ("#" . 79) nil ("#" . 19) nil ("#" . 504) nil ("#" . 439) (t 20730 . 30078) nil ("." . 627) nil ("+html" . 627) nil ("#" . -569) (t 20730 . 30020) nil (569 . 570) nil (626 . 632) (t 20730 . 29942) nil (505 . 506) nil (439 . 440) nil (409 . 410) nil (357 . 358) nil (298 . 299) nil (255 . 256) nil (191 . 192) nil (122 . 123) nil (80 . 81) nil (19 . 20) nil (394 . 396) (t 20730 . 29604) nil ("." . -614) nil ("+" . -615) nil ("h" . -616) nil ("t" . -617) nil ("m" . -618) nil ("l" . -619) nil (592 . 594) nil ("." . -592) nil ("+" . -593) nil ("?" . 598) nil (")" . 598) nil ("+" . 598) nil ("." . 598) nil ("(" . 598) nil ("^" . -592) (t 20730 . 29454) nil (281 . 282) nil ("!" . -282) (t 20730 . 29379) nil (465 . 466) nil (457 . 465) nil (55 . 56) nil (47 . 55) nil ("(" . -47) nil (47 . 48) nil ("?" . 47) nil (")" . 47) nil ("." . 47) nil ("\\" . 47) nil ("w" . 47) nil ("w" . 47) nil ("w" . 47) nil ("(" . 47) nil ("^" . 47) nil ("^" . -457) nil ("(" . -458) nil (458 . 459) nil (55 . 56) nil (48 . 55) nil (174 . 176) (t 20730 . 29249) nil ("," . 174) nil ("L" . 174) (t 20730 . 29196) nil (275 . 276) nil (102 . 103) (t 20730 . 29161) nil (173 . 175) nil (" " . -335) nil (333 . 336) (t 20730 . 29079) nil (337 . 415) nil ("RewriteCond \"%{REQUEST_FILENAME}\" \"google.+html\"
+RewriteRule \"(.*)\" \"$1\" [L]
+
+" . -19) nil ("$" . 607) nil ("?" . 607) nil ("^" . 597) nil ("$" . 376) nil ("^" . 372) nil ("$" . 206) nil ("^" . 202) nil (379 . 380) (374 . 375) nil ("
+" . 257) nil ("
+" . 257) nil ("RewriteRule \"^(.*)$\" \"/django.cgi/$1\" [L]" . 257) nil ("
+" . 257) nil ("RewriteCond \"%{HTTP_HOST}\" \"^enika-itamotchi\\.sakura\\.ne\\.jp$\"" . 257) nil (636 . 642) nil ("." . -636) nil (632 . 637) nil ("." . -632) nil (624 . 633) nil ("[" . -624) nil (624 . 625) nil ("^" . -624) nil (605 . 625) nil (602 . 605) nil ("A" . -602) nil ("S" . -603) nil (599 . 604) nil (579 . 599) nil (574 . 579) nil ("2" . 667) nil ("$" . 667) nil (646 . 647) nil ("+" . 646) nil ("(" . 645) nil (")" . 645) (t 20730 . 28856) nil ("," . 519) nil ("L" . 519) nil ("," . 253) nil ("L" . 253) (t 20730 . 28740) nil ("
+" . 527) nil ("RewriteCond \"%{HTTP" . 527) nil (547 . 598) nil (546 . 547) nil (97 . 148) nil ("RewriteCond \"%{HTTP_HOST}\" \"^enika-itamotchi\\.com$\"" . 97) nil (526 . 546) nil ("*" . 485) nil ("." . 485) nil ("html" . 485) nil (459 . 460) nil (413 . 426) nil ("u" . -413) nil (411 . 414) nil ("com$" . 411) nil ("!" . -448) nil (448 . 449) nil ("!" . -180) nil (180 . 181) nil ("!" . 448) nil (447 . 448) nil ("!" . 393) nil ("/" . 337) nil ("secure" . 337) nil (304 . 321) nil (284 . 304) nil (274 . 284) nil ("R" . -274) nil (260 . 275) nil ("E" . -260) nil (259 . 261) nil (258 . 259) nil ("/" . 204) nil ("secure" . 204) nil (186 . 188) nil (179 . 180) nil (176 . 185) nil (174 . 176) nil ("L" . -174) nil (168 . 175) nil (148 . 168) nil (143 . 147) nil ("\\.jp$" . 143) nil ("\\.ne" . 143) nil ("sakura" . 143) nil ("!" . 125) (t 20730 . 27294)))

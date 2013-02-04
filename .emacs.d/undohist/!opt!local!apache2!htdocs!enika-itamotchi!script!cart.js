@@ -1,0 +1,2 @@
+
+((digest . "c90fdcf50bde2faac47d743ac9cacb16") (undo-list nil (#("/enika_itamotchi/" 0 17 (fontified t face font-lock-string-face)) . -892) (909 . 910) (#("/enika_itamotchi/" 0 17 (fontified t face font-lock-string-face)) . -573) (590 . 591) (#("/enika_itamotchi/" 0 17 (fontified t face font-lock-string-face)) . -265) (282 . 283) (#("/enika_itamotchi/" 0 17 (fontified t face font-lock-string-face)) . -30) (t 19931 . 60729) (47 . 48) 1 (t 19931 . 60729)))

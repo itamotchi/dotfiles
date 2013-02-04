@@ -1,0 +1,399 @@
+
+((digest . "65379085af97712a4d960eda6ffc2cf6") (undo-list nil (#("* -rw-r--r--   1 miitsy  staff   1003 Jan  8 12:34 urls_sakura.py
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 65 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 65 66 (fontified nil)) . -402) ((marker . 1194) . -66) ((marker . 1194) . -66) (#("* -rw-r--r--   1 miitsy  staff   1125 Apr 14 12:32 urls.py~
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 59 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 59 60 (fontified nil)) . -402) ((marker . 1260) . -60) ((marker . 1260) . -60) (#("* -rw-r--r--   1 miitsy  staff   1044 Apr 14 13:36 urls.pyc
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 59 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified t face dired-marked) 59 60 (fontified t)) . -402) ((marker . 1261) . -60) ((marker . 1261) . -60) (#("* drwxr-xr-x   3 miitsy  staff    102 Mar 25 15:29 tmp
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 54 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 54 55 (fontified nil)) . -343) ((marker . 1376) . -55) ((marker . 1376) . -55) (#("* drwxr-xr-x   7 miitsy  staff    238 Mar 16 07:51 test
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 55 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 55 56 (fontified nil)) . -343) ((marker . 1443) . -56) ((marker . 1443) . -56) (#("* drwxr-xr-x  19 miitsy  staff    646 Apr 19 13:06 template
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 59 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 59 60 (fontified nil)) . -343) ((marker . 343) . -51) ((marker . 1512) . -60) ((marker . 1512) . -60) (#("* -rw-r--r--   1 miitsy  staff   3648 Jan  8 10:49 settings_sakura.py
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 69 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 69 70 (fontified nil)) . -343) ((marker . 1578) . -70) ((marker . 1578) . -70) (#("* -rw-r--r--   1 miitsy  staff   2934 Feb 22 13:26 settings.pyc
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 63 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified t face dired-marked) 63 64 (fontified t)) . -343) ((marker . 1579) . -64) ((marker . 1579) . -64) (#("* -rw-r--r--   1 miitsy  staff    210 Mar 22 18:53 myutil.py~
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 61 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 61 62 (fontified nil)) . -280) ((marker . 1688) . -62) ((marker . 1688) . -62) (#("* -rw-r--r--   1 miitsy  staff    891 Mar 23 07:23 myutil.pyc
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 61 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified t face dired-marked) 61 62 (fontified t)) . -280) ((marker . 1754) . -62) ((marker . 1754) . -62) (#("* drwxr-xr-x  11 miitsy  staff    374 Mar 11 18:26 mydjango
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 59 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified t face dired-marked) 59 60 (fontified t)) . -219) ((marker . 1879) . -60) ((marker . 1879) . -60) (#("* drwxr-xr-x  27 miitsy  staff    918 Apr 15 10:49 media
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 56 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified t face dired-marked) 56 57 (fontified t)) . -162) ((marker . 162) . -51) ((marker . 162) . -51) ((marker . 2014) . -57) ((marker . 2014) . -57) (#("* -rw-r--r--   1 miitsy  staff   3761 Jan  8 10:49 django.cgi
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 61 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 61 62 (fontified nil)) . -101) ((marker . 2098) . -62) ((marker . 2098) . -62) (#("* -rw-r--r--   1 miitsy  staff  52224 Apr 14 13:26 db
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 53 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 53 54 (fontified nil)) . -101) ((marker . 2147) . -54) ((marker . 2147) . -54) (#("* -rw-r--r--   1 miitsy  staff    165 Nov 17 09:46 __init__.pyc
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 63 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 63 64 (fontified nil)) . -101) ((marker . 2206) . -64) ((marker . 2206) . -64) (#("* -rw-r--r--   1 miitsy  staff      0 Nov 17 09:40 __init__.py
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 62 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 62 63 (fontified nil)) . -101) ((marker . 2275) . -63) ((marker . 2275) . -63) (#("* -rw-r--r--   1 miitsy  staff    148 Jan  8 13:06 .htaccess
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 60 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 60 61 (fontified nil)) . -101) ((marker . 2335) . -61) ((marker . 2335) . -61) (#("* -rw-r--r--@  1 miitsy  staff  12292 Mar 25 15:49 .DS_Store
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 60 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 60 61 (fontified nil)) . -101) ((marker . 1176) . -51) ((marker . 2396) . -61) ((marker . 2396) . -61) (#("* drwxr-xr-x   7 miitsy  staff    238 Feb 12 09:44 ..
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 53 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified nil face dired-marked) 53 54 (fontified nil)) . -101) (#("* drwxr-xr-x  25 miitsy  staff    850 Apr 14 13:36 .
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 52 (mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" fontified t face dired-marked) 52 53 (fontified t)) . -101) 1607 nil (1540 . 1541) (#(" " 0 1 (fontified t)) . 1540) 1591 nil (1480 . 1481) (#(" " 0 1 (fontified t)) . 1480) 1531 nil (1420 . 1421) (#(" " 0 1 (fontified t)) . 1420) 1471 nil (1306 . 1307) (#(" " 0 1 (fontified t)) . 1306) 1357 nil (1250 . 1251) (#(" " 0 1 (fontified t)) . 1250) 1301 nil (1190 . 1191) (#(" " 0 1 (fontified t)) . 1190) 1241 nil (1120 . 1121) (#(" " 0 1 (fontified t)) . 1120) 1171 nil (1056 . 1057) (#(" " 0 1 (fontified t)) . 1056) 1107 nil (931 . 932) (#(" " 0 1 (fontified t)) . 931) 982 nil (869 . 870) (#(" " 0 1 (fontified t)) . 869) 920 nil (748 . 749) (#(" " 0 1 (fontified t)) . 748) 799 nil (634 . 635) (#(" " 0 1 (fontified t)) . 634) 685 nil (511 . 512) (#(" " 0 1 (fontified t)) . 511) 562 nil (457 . 458) (#(" " 0 1 (fontified t)) . 457) 508 nil (393 . 394) (#(" " 0 1 (fontified t)) . 393) 444 nil (330 . 331) (#(" " 0 1 (fontified t)) . 330) 381 nil (269 . 270) (#(" " 0 1 (fontified t)) . 269) 320 nil (208 . 209) (#(" " 0 1 (fontified t)) . 208) 259 nil (154 . 155) (#(" " 0 1 (fontified t)) . 154) 205 nil (101 . 102) (#(" " 0 1 (fontified t)) . 101) 152 nil (#("* -rw-r--r--   1 miitsy  staff   1959 Apr 14 12:01 works_preload.css~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 69 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 69 70 (fontified t)) . -2212) ((marker . 343) . -70) ((marker . 343) . -70) (#("* -rw-r--r--   1 miitsy  staff   1295 Apr 14 14:13 works.js~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 60 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified t)) . -2079) ((marker . 162) . -61) ((marker . 162) . -61) (#("* -rw-r--r--   1 miitsy  staff   2007 Apr 14 22:24 works.css~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 61 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified t)) . -2019) ((marker . 52) . -62) ((marker . 52) . -62) (#("* -rw-r--r--   1 miitsy  staff    470 Apr 14 14:05 util.js~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 59 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 59 60 (fontified t)) . -1958) (#("* drwxr-xr-x   2 miitsy  staff     68 Mar 25 19:43 tmp
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 54 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 54 55 (fontified nil)) . -1899) ((marker . 2396) . -55) ((marker . 2396) . -55) (#("* -rw-r--r--   1 miitsy  staff    330 Nov  5 21:03 test2.html
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 61 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified nil)) . -1899) ((marker . 2335) . -62) ((marker . 2335) . -62) (#("* -rw-r--r--   1 miitsy  staff    655 Nov  5 13:07 test.html
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 60 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified nil)) . -1899) ((marker . 2275) . -61) ((marker . 2275) . -61) (#("* drwxr-xr-x   3 miitsy  staff    102 Mar 16 07:36 test
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 55 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 55 56 (fontified nil)) . -1899) ((marker . 2206) . -56) ((marker . 2206) . -56) (#("* -rw-r--r--   1 miitsy  staff   4572 Jan  8 15:12 style.css~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 61 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified t)) . -1899) ((marker . 2147) . -62) ((marker . 2147) . -62) (#("* -rw-r--r--   1 miitsy  staff   5190 Apr 15 09:37 slideshow.js~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 64 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 64 65 (fontified t)) . -1838) ((marker . 2015) . -65) ((marker . 2015) . -65) (#("* -rw-r--r--   1 miitsy  staff    857 Apr 14 13:51 script.js~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 61 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified t)) . -1774) ((marker . 1953) . -62) ((marker . 1953) . -62) (#("* -rw-r--r--@  1 miitsy  staff  37019 Jan  8 12:09 profile.jpg
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 62 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 62 63 (fontified nil)) . -1713) ((marker . 1816) . -63) ((marker . 1816) . -63) (#("* -rw-r--r--   1 miitsy  staff   1295 Oct 30 23:28 index.html~
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 62 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 62 63 (fontified nil)) . -1713) ((marker . 1754) . -63) ((marker . 1754) . -63) (#("* drwxr-xr-x  11 miitsy  staff    374 Jan  8 12:10 image
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 56 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 56 57 (fontified nil)) . -1713) ((marker . 1443) . -57) ((marker . 1443) . -57) (#("* -rw-r--r--   1 miitsy  staff     53 Oct 31 00:09 google953f1e0a937c6daf.html
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 78 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 78 79 (fontified nil)) . -1713) (#("* drwxr-xr-x   5 miitsy  staff    170 Dec 15 12:36 admin
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 56 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 56 57 (fontified nil)) . -1713) ((marker . 509) . -51) (#("* -rw-r--r--   1 miitsy  staff  15364 Mar 25 14:30 .DS_Store
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 60 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified nil)) . -1713) (#("* drwxr-xr-x  25 miitsy  staff    850 Apr 14 13:36 ..
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 53 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 53 54 (fontified nil)) . -1713) (#("* drwxr-xr-x  27 miitsy  staff    918 Apr 15 10:49 .
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 52 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 52 53 (fontified t)) . -1713) 3376 nil (3305 . 3306) (#(" " 0 1 (fontified t)) . 3305) 3356 nil (3111 . 3112) (#(" " 0 1 (fontified t)) . 3111) 3162 nil (2989 . 2990) (#(" " 0 1 (fontified t)) . 2989) 3040 nil (2868 . 2869) (#(" " 0 1 (fontified t)) . 2868) 2919 nil (2754 . 2755) (#(" " 0 1 (fontified t)) . 2754) 2805 nil (2692 . 2693) (#(" " 0 1 (fontified t)) . 2692) 2743 nil (2631 . 2632) (#(" " 0 1 (fontified t)) . 2631) 2682 nil (2575 . 2576) (#(" " 0 1 (fontified t)) . 2575) 2626 nil (2513 . 2514) (#(" " 0 1 (fontified t)) . 2513) 2564 nil (2387 . 2388) (#(" " 0 1 (fontified t)) . 2387) 2438 nil (2261 . 2262) (#(" " 0 1 (fontified t)) . 2261) 2312 nil (2137 . 2138) (#(" " 0 1 (fontified t)) . 2137) 2188 nil (2074 . 2075) (#(" " 0 1 (fontified t)) . 2074) 2125 nil (2017 . 2018) (#(" " 0 1 (fontified t)) . 2017) 2068 nil (1938 . 1939) (#(" " 0 1 (fontified t)) . 1938) 1989 nil (1881 . 1882) (#(" " 0 1 (fontified t)) . 1881) 1932 nil (1820 . 1821) (#(" " 0 1 (fontified t)) . 1820) 1871 nil (1766 . 1767) (#(" " 0 1 (fontified t)) . 1766) 1817 nil (1713 . 1714) (#(" " 0 1 (fontified t)) . 1713) 1764 nil (#("* -rw-r--r--   1 miitsy  staff    7868 Mar 23 07:52 worksphoto.js~
+" 0 1 (fontified t face dired-mark) 1 52 (fontified t) 52 66 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified t)) . -3945) ((marker . 219) . -67) ((marker . 219) . -67) (#("* -rw-r--r--   1 miitsy  staff    2112 Apr 15 20:24 works_manager.js~
+" 0 1 (fontified t face dired-mark) 1 52 (fontified t) 52 69 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 69 70 (fontified t)) . -3879) ((marker . 343) . -70) ((marker . 343) . -70) (#("* -rw-r--r--   1 miitsy  staff    5585 Oct  9  2011 urlify.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 61 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified nil)) . -3810) ((marker . 403) . -62) ((marker . 403) . -62) (#("* -rw-r--r--   1 miitsy  staff    2450 Oct  9  2011 timeparse.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 64 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 64 65 (fontified nil)) . -3810) ((marker . 460) . -65) ((marker . 460) . -65) (#("* -rw-r--r--   1 miitsy  staff     372 Oct  9  2011 prepopulate.min.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 70 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 70 71 (fontified nil)) . -3810) ((marker . 509) . -71) ((marker . 509) . -71) (#("* -rw-r--r--   1 miitsy  staff    1191 Oct  9  2011 prepopulate.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -3810) ((marker . 570) . -67) ((marker . 570) . -67) (#("* -rw-r--r--   1 miitsy  staff   72174 Oct  9  2011 jquery.min.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 65 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 65 66 (fontified nil)) . -3810) ((marker . 634) . -66) ((marker . 634) . -66) (#("* -rw-r--r--   1 miitsy  staff  163855 Oct  9  2011 jquery.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 61 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified nil)) . -3810) ((marker . 695) . -62) ((marker . 695) . -62) (#("* -rw-r--r--   1 miitsy  staff     107 Oct  9  2011 jquery.init.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -3810) ((marker . 754) . -67) ((marker . 754) . -67) (#("* -rw-r--r--   1 miitsy  staff    2377 Oct  9  2011 inlines.min.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -3810) ((marker . 815) . -67) ((marker . 815) . -67) (#("* -rw-r--r--   1 miitsy  staff    5922 Oct  9  2011 inlines.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 62 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 62 63 (fontified nil)) . -3810) ((marker . 875) . -63) ((marker . 875) . -63) (#("* -rw-r--r--   1 miitsy  staff    6427 Oct  9  2011 getElementsBySelector.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 76 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 76 77 (fontified nil)) . -3810) ((marker . 939) . -77) ((marker . 939) . -77) (#("* -rw-r--r--   1 miitsy  staff    7328 Oct  9  2011 dateparse.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 64 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 64 65 (fontified nil)) . -3810) ((marker . 1008) . -65) ((marker . 1008) . -65) (#("* -rw-r--r--   1 miitsy  staff    7026 Oct  9  2011 core.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 59 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 59 60 (fontified nil)) . -3810) ((marker . 1376) . -60) ((marker . 1376) . -60) (#("* -rw-r--r--   1 miitsy  staff    2223 Oct  9  2011 compress.pyc
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 64 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 64 65 (fontified nil)) . -3810) ((marker . 1327) . -65) ((marker . 1327) . -65) (#("* -rw-r--r--   1 miitsy  staff    1896 Oct  9  2011 compress.py
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 63 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 63 64 (fontified nil)) . -3810) ((marker . 1261) . -64) ((marker . 1261) . -64) (#("* -rw-r--r--   1 miitsy  staff     560 Oct  9  2011 collapse.min.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 67 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 67 68 (fontified nil)) . -3810) ((marker . 1260) . -68) ((marker . 1260) . -68) (#("* -rw-r--r--   1 miitsy  staff     827 Oct  9  2011 collapse.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 63 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 63 64 (fontified nil)) . -3810) ((marker . 1194) . -64) ((marker . 1194) . -64) (#("* -rw-r--r--   1 miitsy  staff    5448 Oct  9  2011 calendar.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 63 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 63 64 (fontified nil)) . -3810) ((marker . 1125) . -64) ((marker . 1125) . -64) (#("* drwxr-xr-x   5 miitsy  staff     170 Oct  9  2011 admin
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 57 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 57 58 (fontified nil)) . -3810) ((marker . 1076) . -58) ((marker . 1076) . -58) (#("* -rw-r--r--   1 miitsy  staff    3317 Oct  9  2011 actions.min.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -3810) ((marker . 1009) . -67) ((marker . 1009) . -67) (#("* -rw-r--r--   1 miitsy  staff    4740 Oct  9  2011 actions.js
+" 0 1 (fontified t face dired-mark) 1 52 (fontified t) 52 62 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 62 63 (fontified t)) . -3810) (#("* -rw-r--r--   1 miitsy  staff    7095 Oct  9  2011 SelectFilter2.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 68 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 68 69 (fontified nil)) . -3743) (#("* -rw-r--r--   1 miitsy  staff    4051 Oct  9  2011 SelectBox.js
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 64 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 64 65 (fontified nil)) . -3743) (#("* -rw-r--r--   1 miitsy  staff    1076 Oct  9  2011 LICENSE-JQUERY.txt
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 70 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 70 71 (fontified nil)) . -3743) (#("* drwxr-xr-x   5 miitsy  staff     170 Dec 15 12:36 ..
+" 0 1 (fontified nil face dired-mark) 1 52 (fontified nil) 52 54 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 54 55 (fontified nil)) . -3743) ((marker . 101) . -55) ((marker . 101) . -55) (#("* drwxr-xr-x  30 miitsy  staff    1020 Apr 19 23:54 .
+" 0 1 (fontified t face dired-mark) 1 52 (fontified t) 52 53 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 53 54 (fontified t)) . -3743) 5702 nil (5634 . 5635) (#(" " 0 1 (fontified t)) . 5634) 5686 nil (5498 . 5499) (#(" " 0 1 (fontified t)) . 5498) 5550 nil (5367 . 5368) (#(" " 0 1 (fontified t)) . 5367) 5419 nil (5302 . 5303) (#(" " 0 1 (fontified t)) . 5302) 5354 nil (5231 . 5232) (#(" " 0 1 (fontified t)) . 5231) 5283 nil (5164 . 5165) (#(" " 0 1 (fontified t)) . 5164) 5216 nil (5098 . 5099) (#(" " 0 1 (fontified t)) . 5098) 5150 nil (5036 . 5037) (#(" " 0 1 (fontified t)) . 5036) 5088 nil (4969 . 4970) (#(" " 0 1 (fontified t)) . 4969) 5021 nil (4902 . 4903) (#(" " 0 1 (fontified t)) . 4902) 4954 nil (4839 . 4840) (#(" " 0 1 (fontified t)) . 4839) 4891 nil (4762 . 4763) (#(" " 0 1 (fontified t)) . 4762) 4814 nil (4697 . 4698) (#(" " 0 1 (fontified t)) . 4697) 4749 nil (4637 . 4638) (#(" " 0 1 (fontified t)) . 4637) 4689 nil (4572 . 4573) (#(" " 0 1 (fontified t)) . 4572) 4624 nil (4508 . 4509) (#(" " 0 1 (fontified t)) . 4508) 4560 nil (4440 . 4441) (#(" " 0 1 (fontified t)) . 4440) 4492 nil (4376 . 4377) (#(" " 0 1 (fontified t)) . 4376) 4428 nil (4312 . 4313) (#(" " 0 1 (fontified t)) . 4312) 4364 nil (4254 . 4255) (#(" " 0 1 (fontified t)) . 4254) 4306 nil (4187 . 4188) (#(" " 0 1 (fontified t)) . 4187) 4239 nil (4124 . 4125) (#(" " 0 1 (fontified t)) . 4124) 4176 nil (3988 . 3989) (#(" " 0 1 (fontified t)) . 3988) 4040 nil (3923 . 3924) (#(" " 0 1 (fontified t)) . 3923) 3975 nil (3852 . 3853) (#(" " 0 1 (fontified t)) . 3852) 3904 nil (3797 . 3798) (#(" " 0 1 (fontified t)) . 3797) 3849 nil (3743 . 3744) (#(" " 0 1 (fontified t)) . 3743) 3795 nil (#("  /Users/miitsy/Work_Space/Django/nishiihisayoshi/media/admin:
+  total used in directory 0 available 39680164
+  drwxr-xr-x   5 miitsy  staff   170 Dec 15 12:36 .
+  drwxr-xr-x  27 miitsy  staff   918 Apr 15 10:49 ..
+  drwxr-xr-x  15 miitsy  staff   510 Apr 15 14:52 css
+  drwxr-xr-x   9 miitsy  staff   306 Apr 15 10:43 img
+  drwxr-xr-x  30 miitsy  staff  1020 Apr 19 23:54 js
+
+" 0 2 (fontified t) 2 61 (fontified t face dired-header) 61 63 (fontified t) 63 65 (fontified t) 65 88 (fontified t) 88 90 (fontified t) 90 101 (fontified t) 101 109 (fontified t) 109 160 (fontified t) 160 161 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 161 212 (fontified t) 212 214 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 214 265 (fontified t) 265 268 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 268 319 (fontified t) 319 322 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 322 373 (fontified t) 373 375 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 375 376 (fontified t) 376 377 (fontified t)) . 3376) ((marker . 1009) . -265) ((marker . 634) . -376) ((marker . 634) . -376) ((marker . 570) . -323) ((marker . 570) . -323) ((marker . 509) . -269) ((marker . 509) . -269) ((marker . 460) . -215) ((marker . 460) . -215) ((marker . 695) . -377) ((marker . 695) . -377) ((marker . 343) . -63) ((marker . 343) . -63) ((marker . 402) . -110) ((marker . 402) . -110) ((marker . 403) . -162) ((marker . 403) . -162) ((marker . 1009) . -377) ((marker . 1009) . -373) nil (#("* -rw-r--r--   1 miitsy  staff    459 Dec 28 00:31 worksphoto.css~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 66 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified t)) . -4004) ((marker . 1009) . -67) ((marker . 1009) . -67) (#("* -rw-r--r--   1 miitsy  staff   1733 Apr 15 11:21 works_manager.css~
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 69 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 69 70 (fontified t)) . -3938) (#("* -rw-r--r--   1 miitsy  staff    699 Apr 14 22:22 works.css~
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 61 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff   9144 Oct  9  2011 widgets.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 62 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 62 63 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff   3783 Oct  9  2011 rtl.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 58 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 58 59 (fontified nil)) . -3869) ((marker . 101) . -59) ((marker . 101) . -59) (#("* -rw-r--r--   1 miitsy  staff    780 Oct  9  2011 login.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 60 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff    963 Oct  9  2011 ie.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 57 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 57 58 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff   5791 Oct  9  2011 forms.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 60 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff    444 Oct  9  2011 dashboard.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 64 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 64 65 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff   5223 Oct  9  2011 changelists.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -3869) (#("* -rw-r--r--   1 miitsy  staff  12887 Oct  9  2011 base.css
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 59 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 59 60 (fontified nil)) . -3869) (#("* drwxr-xr-x   5 miitsy  staff    170 Dec 15 12:36 ..
+" 0 1 (fontified nil face dired-mark) 1 51 (fontified nil) 51 53 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 53 54 (fontified nil)) . -3869) (#("* drwxr-xr-x  15 miitsy  staff    510 Apr 15 14:52 .
+" 0 1 (fontified t face dired-mark) 1 51 (fontified t) 51 52 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 52 53 (fontified t)) . -3869) 4805 nil (4737 . 4738) (#(" " 0 1 (fontified t)) . 4737) 4788 nil (4601 . 4602) (#(" " 0 1 (fontified t)) . 4601) 4652 nil (4470 . 4471) (#(" " 0 1 (fontified t)) . 4470) 4521 nil (4407 . 4408) (#(" " 0 1 (fontified t)) . 4407) 4458 nil (4348 . 4349) (#(" " 0 1 (fontified t)) . 4348) 4399 nil (4287 . 4288) (#(" " 0 1 (fontified t)) . 4287) 4338 nil (4229 . 4230) (#(" " 0 1 (fontified t)) . 4229) 4280 nil (4168 . 4169) (#(" " 0 1 (fontified t)) . 4168) 4219 nil (4103 . 4104) (#(" " 0 1 (fontified t)) . 4103) 4154 nil (4036 . 4037) (#(" " 0 1 (fontified t)) . 4036) 4087 nil (3976 . 3977) (#(" " 0 1 (fontified t)) . 3976) 4027 nil (3922 . 3923) (#(" " 0 1 (fontified t)) . 3922) 3973 nil (3869 . 3870) (#(" " 0 1 (fontified t)) . 3869) 3920 nil (3753 . 3820) (4670 . 4672) (4604 . 4606) (4534 . 4536) (4465 . 4467) (4403 . 4405) (4340 . 4342) (4281 . 4283) (4220 . 4222) (4162 . 4164) (4101 . 4103) (4036 . 4038) (3969 . 3971) (3909 . 3911) (3855 . 3857) (3802 . 3804) (3753 . 3755) (nil help-echo nil 4689 . 4704) (nil dired-filename nil 4689 . 4704) (nil mouse-face nil 4689 . 4704) (nil help-echo nil 4625 . 4639) (nil dired-filename nil 4625 . 4639) (nil mouse-face nil 4625 . 4639) (nil help-echo nil 4557 . 4575) (nil dired-filename nil 4557 . 4575) (nil mouse-face nil 4557 . 4575) (nil help-echo nil 4490 . 4507) (nil dired-filename nil 4490 . 4507) (nil mouse-face nil 4490 . 4507) (nil help-echo nil 4430 . 4440) (nil dired-filename nil 4430 . 4440) (nil mouse-face nil 4430 . 4440) (nil help-echo nil 4369 . 4380) (nil dired-filename nil 4369 . 4380) (nil mouse-face nil 4369 . 4380) (nil help-echo nil 4312 . 4319) (nil dired-filename nil 4312 . 4319) (nil mouse-face nil 4312 . 4319) (nil help-echo nil 4253 . 4262) (nil dired-filename nil 4253 . 4262) (nil mouse-face nil 4253 . 4262) (nil help-echo nil 4197 . 4203) (nil dired-filename nil 4197 . 4203) (nil mouse-face nil 4197 . 4203) (nil help-echo nil 4138 . 4147) (nil dired-filename nil 4138 . 4147) (nil mouse-face nil 4138 . 4147) (nil help-echo nil 4075 . 4088) (nil dired-filename nil 4075 . 4088) (nil mouse-face nil 4075 . 4088) (nil help-echo nil 4010 . 4025) (nil dired-filename nil 4010 . 4025) (nil mouse-face nil 4010 . 4025) (nil help-echo nil 3952 . 3960) (nil dired-filename nil 3952 . 3960) (nil mouse-face nil 3952 . 3960) (nil help-echo nil 3900 . 3902) (nil dired-filename nil 3900 . 3902) (nil mouse-face nil 3900 . 3902) (nil help-echo nil 3849 . 3850) (nil dired-filename nil 3849 . 3850) (nil mouse-face nil 3849 . 3850) (3780 . 3799) (#("total" 0 5 (fontified nil)) . -3753) (3758 . 3781) (3753 . 4668) ("total 160
+drwxr-xr-x  15 miitsy  staff    510 Apr 15 14:52 .
+drwxr-xr-x   5 miitsy  staff    170 Dec 15 12:36 ..
+-rw-r--r--   1 miitsy  staff  12887 Oct  9  2011 base.css
+-rw-r--r--   1 miitsy  staff   5223 Oct  9  2011 changelists.css
+-rw-r--r--   1 miitsy  staff    444 Oct  9  2011 dashboard.css
+-rw-r--r--   1 miitsy  staff   5791 Oct  9  2011 forms.css
+-rw-r--r--   1 miitsy  staff    963 Oct  9  2011 ie.css
+-rw-r--r--   1 miitsy  staff    780 Oct  9  2011 login.css
+-rw-r--r--   1 miitsy  staff   3783 Oct  9  2011 rtl.css
+-rw-r--r--   1 miitsy  staff   9144 Oct  9  2011 widgets.css
+-rw-r--r--   1 miitsy  staff    699 Apr 14 22:22 works.css~
+-rw-r--r--   1 miitsy  staff   2622 Apr 15 14:52 works_manager.css
+-rw-r--r--   1 miitsy  staff   1733 Apr 15 11:21 works_manager.css~
+-rw-r--r--   1 miitsy  staff    699 Jan  7 13:02 worksphoto.css
+-rw-r--r--   1 miitsy  staff    459 Dec 28 00:31 worksphoto.css~
+" . 3753) (3753 . 4668) ("total 160
+drwxr-xr-x  15 miitsy  staff    510 Apr 15 14:52 .
+drwxr-xr-x   5 miitsy  staff    170 Dec 15 12:36 ..
+-rw-r--r--   1 miitsy  staff  12887 Oct  9  2011 base.css
+-rw-r--r--   1 miitsy  staff   5223 Oct  9  2011 changelists.css
+-rw-r--r--   1 miitsy  staff    444 Oct  9  2011 dashboard.css
+-rw-r--r--   1 miitsy  staff   5791 Oct  9  2011 forms.css
+-rw-r--r--   1 miitsy  staff    963 Oct  9  2011 ie.css
+-rw-r--r--   1 miitsy  staff    780 Oct  9  2011 login.css
+-rw-r--r--   1 miitsy  staff   3783 Oct  9  2011 rtl.css
+-rw-r--r--   1 miitsy  staff   9144 Oct  9  2011 widgets.css
+-rw-r--r--   1 miitsy  staff    699 Apr 14 22:22 works.css~
+-rw-r--r--   1 miitsy  staff   2622 Apr 15 14:52 works_manager.css
+-rw-r--r--   1 miitsy  staff   1733 Apr 15 11:21 works_manager.css~
+-rw-r--r--   1 miitsy  staff    699 Jan  7 13:02 worksphoto.css
+-rw-r--r--   1 miitsy  staff    459 Dec 28 00:31 worksphoto.css~
+" . 3753) (3752 . 4668) 3641 nil (3753 . 3819) (5693 . 5695) (5627 . 5629) (5557 . 5559) (5488 . 5490) (5426 . 5428) (5361 . 5363) (5290 . 5292) (5223 . 5225) (5157 . 5159) (5095 . 5097) (5028 . 5030) (4961 . 4963) (4898 . 4900) (4821 . 4823) (4756 . 4758) (4696 . 4698) (4631 . 4633) (4567 . 4569) (4499 . 4501) (4435 . 4437) (4371 . 4373) (4313 . 4315) (4246 . 4248) (4183 . 4185) (4116 . 4118) (4047 . 4049) (3982 . 3984) (3911 . 3913) (3856 . 3858) (3802 . 3804) (3753 . 3755) (nil help-echo nil 5683 . 5697) (nil dired-filename nil 5683 . 5697) (nil mouse-face nil 5683 . 5697) (nil help-echo nil 5619 . 5632) (nil dired-filename nil 5619 . 5632) (nil mouse-face nil 5619 . 5632) (nil help-echo nil 5551 . 5568) (nil dired-filename nil 5551 . 5568) (nil mouse-face nil 5551 . 5568) (nil help-echo nil 5484 . 5500) (nil dired-filename nil 5484 . 5500) (nil mouse-face nil 5484 . 5500) (nil help-echo nil 5424 . 5433) (nil dired-filename nil 5424 . 5433) (nil mouse-face nil 5424 . 5433) (nil help-echo nil 5361 . 5373) (nil dired-filename nil 5361 . 5373) (nil mouse-face nil 5361 . 5373) (nil help-echo nil 5292 . 5310) (nil dired-filename nil 5292 . 5310) (nil mouse-face nil 5292 . 5310) (nil help-echo nil 5227 . 5241) (nil dired-filename nil 5227 . 5241) (nil mouse-face nil 5227 . 5241) (nil help-echo nil 5163 . 5176) (nil dired-filename nil 5163 . 5176) (nil mouse-face nil 5163 . 5176) (nil help-echo nil 5103 . 5112) (nil dired-filename nil 5103 . 5112) (nil mouse-face nil 5103 . 5112) (nil help-echo nil 5038 . 5052) (nil dired-filename nil 5038 . 5052) (nil mouse-face nil 5038 . 5052) (nil help-echo nil 4973 . 4987) (nil dired-filename nil 4973 . 4987) (nil mouse-face nil 4973 . 4987) (nil help-echo nil 4912 . 4922) (nil dired-filename nil 4912 . 4922) (nil mouse-face nil 4912 . 4922) (nil help-echo nil 4837 . 4861) (nil dired-filename nil 4837 . 4861) (nil mouse-face nil 4837 . 4861) (nil help-echo nil 4774 . 4786) (nil dired-filename nil 4774 . 4786) (nil mouse-face nil 4774 . 4786) (nil help-echo nil 4716 . 4723) (nil dired-filename nil 4716 . 4723) (nil mouse-face nil 4716 . 4723) (nil help-echo nil 4653 . 4665) (nil dired-filename nil 4653 . 4665) (nil mouse-face nil 4653 . 4665) (nil help-echo nil 4591 . 4602) (nil dired-filename nil 4591 . 4602) (nil mouse-face nil 4591 . 4602) (nil help-echo nil 4525 . 4540) (nil dired-filename nil 4525 . 4540) (nil mouse-face nil 4525 . 4540) (nil help-echo nil 4463 . 4474) (nil dired-filename nil 4463 . 4474) (nil mouse-face nil 4463 . 4474) (nil help-echo nil 4401 . 4412) (nil dired-filename nil 4401 . 4412) (nil mouse-face nil 4401 . 4412) (nil help-echo nil 4345 . 4350) (nil dired-filename nil 4345 . 4350) (nil mouse-face nil 4345 . 4350) (nil help-echo nil 4280 . 4294) (nil dired-filename nil 4280 . 4294) (nil mouse-face nil 4280 . 4294) (nil help-echo nil 4219 . 4229) (nil dired-filename nil 4219 . 4229) (nil mouse-face nil 4219 . 4229) (nil help-echo nil 4154 . 4168) (nil dired-filename nil 4154 . 4168) (nil mouse-face nil 4154 . 4168) (nil help-echo nil 4087 . 4103) (nil dired-filename nil 4087 . 4103) (nil mouse-face nil 4087 . 4103) (nil help-echo nil 4024 . 4036) (nil dired-filename nil 4024 . 4036) (nil mouse-face nil 4024 . 4036) (nil help-echo nil 3955 . 3973) (nil dired-filename nil 3955 . 3973) (nil mouse-face nil 3955 . 3973) (nil help-echo nil 3902 . 3904) (nil dired-filename nil 3902 . 3904) (nil mouse-face nil 3902 . 3904) (nil help-echo nil 3850 . 3851) (nil dired-filename nil 3850 . 3851) (nil mouse-face nil 3850 . 3851) (3780 . 3799) (#("total" 0 5 (fontified nil)) . -3753) (3758 . 3781) (3753 . 5661) ("total 776
+drwxr-xr-x  30 miitsy  staff    1020 Apr 19 23:54 .
+drwxr-xr-x   5 miitsy  staff     170 Dec 15 12:36 ..
+-rw-r--r--   1 miitsy  staff    1076 Oct  9  2011 LICENSE-JQUERY.txt
+-rw-r--r--   1 miitsy  staff    4051 Oct  9  2011 SelectBox.js
+-rw-r--r--   1 miitsy  staff    7095 Oct  9  2011 SelectFilter2.js
+-rw-r--r--   1 miitsy  staff    6320 Mar 15 09:53 _worksphoto.js
+-rw-r--r--   1 miitsy  staff    4740 Oct  9  2011 actions.js
+-rw-r--r--   1 miitsy  staff    3317 Oct  9  2011 actions.min.js
+drwxr-xr-x   5 miitsy  staff     170 Oct  9  2011 admin
+-rw-r--r--   1 miitsy  staff    5448 Oct  9  2011 calendar.js
+-rw-r--r--   1 miitsy  staff     827 Oct  9  2011 collapse.js
+-rw-r--r--   1 miitsy  staff     560 Oct  9  2011 collapse.min.js
+-rw-r--r--   1 miitsy  staff    1896 Oct  9  2011 compress.py
+-rw-r--r--   1 miitsy  staff    2223 Oct  9  2011 compress.pyc
+-rw-r--r--   1 miitsy  staff    7026 Oct  9  2011 core.js
+-rw-r--r--   1 miitsy  staff    7328 Oct  9  2011 dateparse.js
+-rw-r--r--   1 miitsy  staff    6427 Oct  9  2011 getElementsBySelector.js
+-rw-r--r--   1 miitsy  staff    5922 Oct  9  2011 inlines.js
+-rw-r--r--   1 miitsy  staff    2377 Oct  9  2011 inlines.min.js
+-rw-r--r--   1 miitsy  staff     107 Oct  9  2011 jquery.init.js
+-rw-r--r--   1 miitsy  staff  163855 Oct  9  2011 jquery.js
+-rw-r--r--   1 miitsy  staff   72174 Oct  9  2011 jquery.min.js
+-rw-r--r--   1 miitsy  staff    1191 Oct  9  2011 prepopulate.js
+-rw-r--r--   1 miitsy  staff     372 Oct  9  2011 prepopulate.min.js
+-rw-r--r--   1 miitsy  staff    2450 Oct  9  2011 timeparse.js
+-rw-r--r--   1 miitsy  staff    5585 Oct  9  2011 urlify.js
+-rw-r--r--   1 miitsy  staff   11598 Apr 19 23:54 works_manager.js
+-rw-r--r--   1 miitsy  staff    2112 Apr 15 20:24 works_manager.js~
+-rw-r--r--   1 miitsy  staff    7860 Mar 24 09:14 worksphoto.js
+-rw-r--r--   1 miitsy  staff    7868 Mar 23 07:52 worksphoto.js~
+" . 3753) (3753 . 5661) ("total 776
+drwxr-xr-x  30 miitsy  staff    1020 Apr 19 23:54 .
+drwxr-xr-x   5 miitsy  staff     170 Dec 15 12:36 ..
+-rw-r--r--   1 miitsy  staff    1076 Oct  9  2011 LICENSE-JQUERY.txt
+-rw-r--r--   1 miitsy  staff    4051 Oct  9  2011 SelectBox.js
+-rw-r--r--   1 miitsy  staff    7095 Oct  9  2011 SelectFilter2.js
+-rw-r--r--   1 miitsy  staff    6320 Mar 15 09:53 _worksphoto.js
+-rw-r--r--   1 miitsy  staff    4740 Oct  9  2011 actions.js
+-rw-r--r--   1 miitsy  staff    3317 Oct  9  2011 actions.min.js
+drwxr-xr-x   5 miitsy  staff     170 Oct  9  2011 admin
+-rw-r--r--   1 miitsy  staff    5448 Oct  9  2011 calendar.js
+-rw-r--r--   1 miitsy  staff     827 Oct  9  2011 collapse.js
+-rw-r--r--   1 miitsy  staff     560 Oct  9  2011 collapse.min.js
+-rw-r--r--   1 miitsy  staff    1896 Oct  9  2011 compress.py
+-rw-r--r--   1 miitsy  staff    2223 Oct  9  2011 compress.pyc
+-rw-r--r--   1 miitsy  staff    7026 Oct  9  2011 core.js
+-rw-r--r--   1 miitsy  staff    7328 Oct  9  2011 dateparse.js
+-rw-r--r--   1 miitsy  staff    6427 Oct  9  2011 getElementsBySelector.js
+-rw-r--r--   1 miitsy  staff    5922 Oct  9  2011 inlines.js
+-rw-r--r--   1 miitsy  staff    2377 Oct  9  2011 inlines.min.js
+-rw-r--r--   1 miitsy  staff     107 Oct  9  2011 jquery.init.js
+-rw-r--r--   1 miitsy  staff  163855 Oct  9  2011 jquery.js
+-rw-r--r--   1 miitsy  staff   72174 Oct  9  2011 jquery.min.js
+-rw-r--r--   1 miitsy  staff    1191 Oct  9  2011 prepopulate.js
+-rw-r--r--   1 miitsy  staff     372 Oct  9  2011 prepopulate.min.js
+-rw-r--r--   1 miitsy  staff    2450 Oct  9  2011 timeparse.js
+-rw-r--r--   1 miitsy  staff    5585 Oct  9  2011 urlify.js
+-rw-r--r--   1 miitsy  staff   11598 Apr 19 23:54 works_manager.js
+-rw-r--r--   1 miitsy  staff    2112 Apr 15 20:24 works_manager.js~
+-rw-r--r--   1 miitsy  staff    7860 Mar 24 09:14 worksphoto.js
+-rw-r--r--   1 miitsy  staff    7868 Mar 23 07:52 worksphoto.js~
+" . 3753) (3752 . 5661) 3749 nil (3376 . 3439) (3636 . 3638) (3582 . 3584) (3528 . 3530) (3475 . 3477) (3423 . 3425) (3376 . 3378) (nil help-echo nil 3674 . 3676) (nil dired-filename nil 3674 . 3676) (nil mouse-face nil 3674 . 3676) (nil help-echo nil 3622 . 3625) (nil dired-filename nil 3622 . 3625) (nil mouse-face nil 3622 . 3625) (nil help-echo nil 3570 . 3573) (nil dired-filename nil 3570 . 3573) (nil mouse-face nil 3570 . 3573) (nil help-echo nil 3519 . 3521) (nil dired-filename nil 3519 . 3521) (nil mouse-face nil 3519 . 3521) (nil help-echo nil 3469 . 3470) (nil dired-filename nil 3469 . 3470) (nil mouse-face nil 3469 . 3470) (3401 . 3420) (#("total" 0 5 (fontified nil)) . -3376) (3381 . 3404) (3376 . 3640) ("total 0
+drwxr-xr-x   5 miitsy  staff   170 Dec 15 12:36 .
+drwxr-xr-x  27 miitsy  staff   918 Apr 15 10:49 ..
+drwxr-xr-x  15 miitsy  staff   510 Apr 15 14:52 css
+drwxr-xr-x   9 miitsy  staff   306 Apr 15 10:43 img
+drwxr-xr-x  30 miitsy  staff  1020 Apr 19 23:54 js
+" . 3376) (3376 . 3640) ("total 0
+drwxr-xr-x   5 miitsy  staff   170 Dec 15 12:36 .
+drwxr-xr-x  27 miitsy  staff   918 Apr 15 10:49 ..
+drwxr-xr-x  15 miitsy  staff   510 Apr 15 14:52 css
+drwxr-xr-x   9 miitsy  staff   306 Apr 15 10:43 img
+drwxr-xr-x  30 miitsy  staff  1020 Apr 19 23:54 js
+" . 3376) (3375 . 3640) 1932 nil (#("* -rw-r--r--   1 miitsy  staff  1091 Apr 14 22:33 works.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 61 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified t)) . -3811) ((marker . 634) . -62) ((marker . 634) . -62) (#("* -rw-r--r--   1 miitsy  staff   349 Mar 15 22:38 success_fileupload.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 74 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 74 75 (fontified t)) . -3750) ((marker . 509) . -75) ((marker . 509) . -75) (#("* -rw-r--r--   1 miitsy  staff   899 Nov 17 12:16 profile.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 63 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 63 64 (fontified t)) . -3676) (#("* -rw-r--r--   1 miitsy  staff   838 Nov 17 12:16 news.html~
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 60 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified nil)) . -3613) (#("* -rw-r--r--   1 miitsy  staff   840 Nov 17 12:25 news.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 59 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 59 60 (fontified nil)) . -3613) (#("* -rw-r--r--   1 miitsy  staff   665 Nov 17 12:26 index.html~
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 61 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified nil)) . -3613) (#("* -rw-r--r--   1 miitsy  staff   666 Jan  8 14:54 index.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 60 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified nil)) . -3613) (#("* -rw-r--r--   1 miitsy  staff   856 Apr 15 08:51 global.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 62 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 62 63 (fontified t)) . -3613) (#("* -rw-r--r--   1 miitsy  staff   555 Nov 18 15:20 genericlayout.html~
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 69 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 69 70 (fontified nil)) . -3551) (#("* -rw-r--r--   1 miitsy  staff   541 Jan  8 15:10 genericlayout.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 68 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 68 69 (fontified nil)) . -3551) (#("* -rw-r--r--   1 miitsy  staff   358 Mar 15 22:36 fileupload.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 66 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified t)) . -3551) (#("* drwxr-xr-x   7 miitsy  staff   238 Dec 27 22:45 admin
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 55 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 55 56 (fontified nil)) . -3485) ((marker . 1688) . -50) (#("* drwxr-xr-x  25 miitsy  staff   850 Apr 14 13:36 ..
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 52 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 52 53 (fontified nil)) . -3485) (#("* drwxr-xr-x  19 miitsy  staff   646 Apr 19 13:06 .
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 51 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 51 52 (fontified t)) . -3485) 3898 nil (3779 . 3780) (#(" " 0 1 (fontified t)) . 3779) 3829 nil (4043 . 4044) (#(" " 0 1 (fontified t)) . 4043) 4093 nil (4166 . 4167) (#(" " 0 1 (fontified t)) . 4166) 4216 nil (4624 . 4625) (#(" " 0 1 (fontified t)) . 4624) 4674 nil (4488 . 4489) (#(" " 0 1 (fontified t)) . 4488) 4538 nil (4350 . 4351) (#(" " 0 1 (fontified t)) . 4350) 4400 nil (4226 . 4227) (#(" " 0 1 (fontified t)) . 4226) 4276 nil (4104 . 4105) (#(" " 0 1 (fontified t)) . 4104) 4154 nil (3980 . 3981) (#(" " 0 1 (fontified t)) . 3980) 4030 nil (3848 . 3849) (#(" " 0 1 (fontified t)) . 3848) 3898 nil (3712 . 3713) (#(" " 0 1 (fontified t)) . 3712) 3762 nil (3590 . 3591) (#(" " 0 1 (fontified t)) . 3590) 3640 nil (3537 . 3538) (#(" " 0 1 (fontified t)) . 3537) 3587 nil (3485 . 3486) (#(" " 0 1 (fontified t)) . 3485) 3535 nil (#("  /Users/miitsy/Work_Space/Django/nishiihisayoshi/template/admin:
+  total used in directory 32 available 39680172
+  drwxr-xr-x   7 miitsy  staff   238 Dec 27 22:45 .
+  drwxr-xr-x  19 miitsy  staff   646 Apr 19 13:06 ..
+  -rw-r--r--   1 miitsy  staff  3821 Dec 15 15:29 base.html
+  -rw-r--r--   1 miitsy  staff  3824 Dec 15 15:24 base.html~
+  -rw-r--r--   1 miitsy  staff   275 Dec 27 22:45 base_site.html
+  -rw-r--r--   1 miitsy  staff   282 Dec 15 14:56 base_site.html~
+  drwxr-xr-x   3 miitsy  staff   102 Dec 22 17:59 myapp
+
+" 0 2 (fontified t) 2 64 (fontified t face dired-header) 64 66 (fontified t) 66 68 (fontified t) 68 91 (fontified t) 91 94 (fontified t) 94 105 (fontified t) 105 113 (fontified t) 113 164 (fontified t) 164 165 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 165 216 (fontified t) 216 218 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 218 269 (fontified t) 269 278 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window") 278 329 (fontified t) 329 339 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-ignored) 339 390 (fontified t) 390 404 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window") 404 455 (fontified t) 455 470 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-ignored) 470 521 (fontified t) 521 526 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 526 527 (fontified t) 527 528 (fontified t)) . 4687) ((marker . 1009) . -528) ((marker . 2015) . -528) ((marker . 2015) . -521) nil (#("  /Users/miitsy/Work_Space/Django/nishiihisayoshi/template/admin/myapp:
+  total used in directory 0 available 39680172
+  drwxr-xr-x   3 miitsy  staff  102 Dec 22 17:59 .
+  drwxr-xr-x   7 miitsy  staff  238 Dec 27 22:45 ..
+  drwxr-xr-x  19 miitsy  staff  646 Apr 17 11:28 worksphoto
+
+" 0 2 (fontified t) 2 70 (fontified t face dired-header) 70 72 (fontified t) 72 74 (fontified t) 74 97 (fontified t) 97 99 (fontified t) 99 110 (fontified t) 110 118 (fontified t) 118 168 (fontified t) 168 169 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 169 219 (fontified t) 219 221 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 221 271 (fontified t) 271 281 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-directory) 281 282 (fontified t) 282 283 (fontified t)) . 5215) ((marker . 875) . -222) ((marker . 875) . -222) ((marker . 1009) . -271) ((marker . 2015) . -283) ((marker . 634) . -282) ((marker . 634) . -282) ((marker . 570) . -283) ((marker . 570) . -283) nil (#("* drwxr-xr-x   3 miitsy  staff   102 Dec 22 17:59 ..
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 52 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 52 53 (fontified nil)) . -5630) (#("* drwxr-xr-x  19 miitsy  staff   646 Apr 17 11:28 .
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 51 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 51 52 (fontified t)) . -5630) 5383 nil (5682 . 5683) (#(" " 0 1 (fontified t)) . 5682) 5732 nil (5630 . 5631) (#(" " 0 1 (fontified t)) . 5630) 5680 nil (#("* -rw-r--r--   1 miitsy  staff   484 Mar 24 10:43 preview.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 63 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 63 64 (fontified t)) . -6047) (#("* -rw-r--r--   1 miitsy  staff  1292 Oct  9  2011 object_history.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 69 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 69 70 (fontified nil)) . -5984) (#("* -rw-r--r--   1 miitsy  staff  1864 Apr 15 11:25 edit2.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 61 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 61 62 (fontified t)) . -5984) (#("* -rw-r--r--   1 miitsy  staff  1903 Mar 25 13:37 edit.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 60 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 60 61 (fontified t)) . -5923) (#("* -rw-r--r--   1 miitsy  staff  1737 Oct  9  2011 delete_confirmation.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 74 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 74 75 (fontified nil)) . -5863) (#("* -rw-r--r--   1 miitsy  staff   411 Mar 20 14:40 confirm_label.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 69 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 69 70 (fontified t)) . -5863) (#("* -rw-r--r--   1 miitsy  staff   810 Oct  9  2011 change_list_results.html~
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 75 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 75 76 (fontified nil)) . -5794) (#("* -rw-r--r--   1 miitsy  staff   810 Dec 23 16:15 change_list_results.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 74 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 74 75 (fontified nil)) . -5794) (#("* -rw-r--r--   1 miitsy  staff  3423 Dec 22 20:58 change_list.html~
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 67 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 67 68 (fontified nil)) . -5794) (#("* -rw-r--r--   1 miitsy  staff  3423 Dec 23 18:07 change_list.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -5794) (#("* -rw-r--r--   1 miitsy  staff  2771 Oct  9  2011 change_form.html
+" 0 1 (fontified nil face dired-mark) 1 50 (fontified nil) 50 66 (fontified nil mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 66 67 (fontified nil)) . -5794) (#("* -rw-r--r--   1 miitsy  staff  1930 Mar 20 15:16 add.html~
+" 0 1 (fontified t face dired-mark) 1 50 (fontified t) 50 59 (fontified t mouse-face highlight dired-filename t help-echo "mouse-2: visit this file in other window" face dired-marked) 59 60 (fontified t)) . -5794) 6862 nil (6798 . 6799) (#(" " 0 1 (fontified t)) . 6798) 6848 nil (6665 . 6666) (#(" " 0 1 (fontified t)) . 6665) 6715 nil (6603 . 6604) (#(" " 0 1 (fontified t)) . 6603) 6653 nil (6481 . 6482) (#(" " 0 1 (fontified t)) . 6481) 6531 nil (6346 . 6347) (#(" " 0 1 (fontified t)) . 6346) 6396 nil (6276 . 6277) (#(" " 0 1 (fontified t)) . 6276) 6326 nil (6131 . 6132) (#(" " 0 1 (fontified t)) . 6131) 6181 nil (6056 . 6057) (#(" " 0 1 (fontified t)) . 6056) 6106 nil (5988 . 5989) (#(" " 0 1 (fontified t)) . 5988) 6038 nil (5921 . 5922) (#(" " 0 1 (fontified t)) . 5921) 5971 nil (5854 . 5855) (#(" " 0 1 (fontified t)) . 5854) 5904 nil (5794 . 5795) (#(" " 0 1 (fontified t)) . 5794) 5844 (t 20360 . 65253) nil (5498 . 5581) (6715 . 6717) (6652 . 6654) (6582 . 6584) (6520 . 6522) (6459 . 6461) (6398 . 6400) (6338 . 6340) (6263 . 6265) (6193 . 6195) (6124 . 6126) (6048 . 6050) (5973 . 5975) (5905 . 5907) (5838 . 5840) (5771 . 5773) (5711 . 5713) (5652 . 5654) (5599 . 5601) (5547 . 5549) (5498 . 5500) (nil help-echo nil 6725 . 6738) (nil dired-filename nil 6725 . 6738) (nil mouse-face nil 6725 . 6738) (nil help-echo nil 6664 . 6676) (nil dired-filename nil 6664 . 6676) (nil mouse-face nil 6664 . 6676) (nil help-echo nil 6596 . 6615) (nil dired-filename nil 6596 . 6615) (nil mouse-face nil 6596 . 6615) (nil help-echo nil 6536 . 6547) (nil dired-filename nil 6536 . 6547) (nil mouse-face nil 6536 . 6547) (nil help-echo nil 6477 . 6487) (nil dired-filename nil 6477 . 6487) (nil mouse-face nil 6477 . 6487) (nil help-echo nil 6418 . 6428) (nil dired-filename nil 6418 . 6428) (nil mouse-face nil 6418 . 6428) (nil help-echo nil 6360 . 6369) (nil dired-filename nil 6360 . 6369) (nil mouse-face nil 6360 . 6369) (nil help-echo nil 6287 . 6311) (nil dired-filename nil 6287 . 6311) (nil mouse-face nil 6287 . 6311) (nil help-echo nil 6219 . 6238) (nil dired-filename nil 6219 . 6238) (nil mouse-face nil 6219 . 6238) (nil help-echo nil 6152 . 6170) (nil dired-filename nil 6152 . 6170) (nil mouse-face nil 6152 . 6170) (nil help-echo nil 6078 . 6103) (nil dired-filename nil 6078 . 6103) (nil mouse-face nil 6078 . 6103) (nil help-echo nil 6005 . 6029) (nil dired-filename nil 6005 . 6029) (nil mouse-face nil 6005 . 6029) (nil help-echo nil 5939 . 5956) (nil dired-filename nil 5939 . 5956) (nil mouse-face nil 5939 . 5956) (nil help-echo nil 5874 . 5890) (nil dired-filename nil 5874 . 5890) (nil mouse-face nil 5874 . 5890) (nil help-echo nil 5809 . 5825) (nil dired-filename nil 5809 . 5825) (nil mouse-face nil 5809 . 5825) (nil help-echo nil 5751 . 5760) (nil dired-filename nil 5751 . 5760) (nil mouse-face nil 5751 . 5760) (nil help-echo nil 5694 . 5702) (nil dired-filename nil 5694 . 5702) (nil mouse-face nil 5694 . 5702) (nil help-echo nil 5643 . 5645) (nil dired-filename nil 5643 . 5645) (nil mouse-face nil 5643 . 5645) (nil help-echo nil 5593 . 5594) (nil dired-filename nil 5593 . 5594) (nil mouse-face nil 5593 . 5594) (5525 . 5544) (#("total" 0 5 (fontified nil)) . -5498) (5503 . 5526) (5498 . 6702) ("total 136
+drwxr-xr-x  19 miitsy  staff   646 Apr 17 11:28 .
+drwxr-xr-x   3 miitsy  staff   102 Dec 22 17:59 ..
+-rw-r--r--   1 miitsy  staff  1984 Mar 25 17:23 add.html
+-rw-r--r--   1 miitsy  staff  1930 Mar 20 15:16 add.html~
+-rw-r--r--   1 miitsy  staff  2771 Oct  9  2011 change_form.html
+-rw-r--r--   1 miitsy  staff  3423 Dec 23 18:07 change_list.html
+-rw-r--r--   1 miitsy  staff  3423 Dec 22 20:58 change_list.html~
+-rw-r--r--   1 miitsy  staff   810 Dec 23 16:15 change_list_results.html
+-rw-r--r--   1 miitsy  staff   810 Oct  9  2011 change_list_results.html~
+-rw-r--r--   1 miitsy  staff   383 Mar 20 14:40 confirm_label.html
+-rw-r--r--   1 miitsy  staff   411 Mar 20 14:40 confirm_label.html~
+-rw-r--r--   1 miitsy  staff  1737 Oct  9  2011 delete_confirmation.html
+-rw-r--r--   1 miitsy  staff  1896 Mar 28 10:59 edit.html
+-rw-r--r--   1 miitsy  staff  1903 Mar 25 13:37 edit.html~
+-rw-r--r--   1 miitsy  staff  2045 Apr 15 14:46 edit2.html
+-rw-r--r--   1 miitsy  staff  1864 Apr 15 11:25 edit2.html~
+-rw-r--r--   1 miitsy  staff  1292 Oct  9  2011 object_history.html
+-rw-r--r--   1 miitsy  staff   479 Mar 25 13:41 preview.html
+-rw-r--r--   1 miitsy  staff   484 Mar 24 10:43 preview.html~
+" . 5498) (5498 . 6702) ("total 136
+drwxr-xr-x  19 miitsy  staff   646 Apr 17 11:28 .
+drwxr-xr-x   3 miitsy  staff   102 Dec 22 17:59 ..
+-rw-r--r--   1 miitsy  staff  1984 Mar 25 17:23 add.html
+-rw-r--r--   1 miitsy  staff  1930 Mar 20 15:16 add.html~
+-rw-r--r--   1 miitsy  staff  2771 Oct  9  2011 change_form.html
+-rw-r--r--   1 miitsy  staff  3423 Dec 23 18:07 change_list.html
+-rw-r--r--   1 miitsy  staff  3423 Dec 22 20:58 change_list.html~
+-rw-r--r--   1 miitsy  staff   810 Dec 23 16:15 change_list_results.html
+-rw-r--r--   1 miitsy  staff   810 Oct  9  2011 change_list_results.html~
+-rw-r--r--   1 miitsy  staff   383 Mar 20 14:40 confirm_label.html
+-rw-r--r--   1 miitsy  staff   411 Mar 20 14:40 confirm_label.html~
+-rw-r--r--   1 miitsy  staff  1737 Oct  9  2011 delete_confirmation.html
+-rw-r--r--   1 miitsy  staff  1896 Mar 28 10:59 edit.html
+-rw-r--r--   1 miitsy  staff  1903 Mar 25 13:37 edit.html~
+-rw-r--r--   1 miitsy  staff  2045 Apr 15 14:46 edit2.html
+-rw-r--r--   1 miitsy  staff  1864 Apr 15 11:25 edit2.html~
+-rw-r--r--   1 miitsy  staff  1292 Oct  9  2011 object_history.html
+-rw-r--r--   1 miitsy  staff   479 Mar 25 13:41 preview.html
+-rw-r--r--   1 miitsy  staff   484 Mar 24 10:43 preview.html~
+" . 5498) (5497 . 6702) 5486 (t 20360 . 65253) nil (5215 . 5287) (5365 . 5367) (5313 . 5315) (5262 . 5264) (5215 . 5217) (nil help-echo nil 5406 . 5416) (nil dired-filename nil 5406 . 5416) (nil mouse-face nil 5406 . 5416) (nil help-echo nil 5356 . 5358) (nil dired-filename nil 5356 . 5358) (nil mouse-face nil 5356 . 5358) (nil help-echo nil 5307 . 5308) (nil dired-filename nil 5307 . 5308) (nil mouse-face nil 5307 . 5308) (5240 . 5259) (#("total" 0 5 (fontified nil)) . -5215) (5220 . 5243) (5215 . 5380) ("total 0
+drwxr-xr-x   3 miitsy  staff  102 Dec 22 17:59 .
+drwxr-xr-x   7 miitsy  staff  238 Dec 27 22:45 ..
+drwxr-xr-x  19 miitsy  staff  646 Apr 17 11:28 worksphoto
+" . 5215) (5215 . 5380) ("total 0
+drwxr-xr-x   3 miitsy  staff  102 Dec 22 17:59 .
+drwxr-xr-x   7 miitsy  staff  238 Dec 27 22:45 ..
+drwxr-xr-x  19 miitsy  staff  646 Apr 17 11:28 worksphoto
+" . 5215) (5214 . 5380) 5208 (t 20360 . 65253) nil (4687 . 4753) (5092 . 5094) (5026 . 5028) (4961 . 4963) (4900 . 4902) (4840 . 4842) (4787 . 4789) (4735 . 4737) (4687 . 4689) (nil help-echo nil 5126 . 5131) (nil dired-filename nil 5126 . 5131) (nil mouse-face nil 5126 . 5131) (nil help-echo nil 5062 . 5077) (nil dired-filename nil 5062 . 5077) (nil mouse-face nil 5062 . 5077) (nil help-echo nil 4999 . 5013) (nil dired-filename nil 4999 . 5013) (nil mouse-face nil 4999 . 5013) (nil help-echo nil 4940 . 4950) (nil dired-filename nil 4940 . 4950) (nil mouse-face nil 4940 . 4950) (nil help-echo nil 4882 . 4891) (nil dired-filename nil 4882 . 4891) (nil mouse-face nil 4882 . 4891) (nil help-echo nil 4831 . 4833) (nil dired-filename nil 4831 . 4833) (nil mouse-face nil 4831 . 4833) (nil help-echo nil 4781 . 4782) (nil dired-filename nil 4781 . 4782) (nil mouse-face nil 4781 . 4782) (4713 . 4732) (#("total" 0 5 (fontified nil)) . -4687) (4692 . 4715) (4687 . 5095) ("total 32
+drwxr-xr-x   7 miitsy  staff   238 Dec 27 22:45 .
+drwxr-xr-x  19 miitsy  staff   646 Apr 19 13:06 ..
+-rw-r--r--   1 miitsy  staff  3821 Dec 15 15:29 base.html
+-rw-r--r--   1 miitsy  staff  3824 Dec 15 15:24 base.html~
+-rw-r--r--   1 miitsy  staff   275 Dec 27 22:45 base_site.html
+-rw-r--r--   1 miitsy  staff   282 Dec 15 14:56 base_site.html~
+drwxr-xr-x   3 miitsy  staff   102 Dec 22 17:59 myapp
+" . 4687) (4687 . 5095) ("total 32
+drwxr-xr-x   7 miitsy  staff   238 Dec 27 22:45 .
+drwxr-xr-x  19 miitsy  staff   646 Apr 19 13:06 ..
+-rw-r--r--   1 miitsy  staff  3821 Dec 15 15:29 base.html
+-rw-r--r--   1 miitsy  staff  3824 Dec 15 15:24 base.html~
+-rw-r--r--   1 miitsy  staff   275 Dec 27 22:45 base_site.html
+-rw-r--r--   1 miitsy  staff   282 Dec 15 14:56 base_site.html~
+drwxr-xr-x   3 miitsy  staff   102 Dec 22 17:59 myapp
+" . 4687) (4686 . 5095) 3640 (t 20360 . 65253) nil (3376 . 3436) (4564 . 4566) (4503 . 4505) (4428 . 4430) (4354 . 4356) (4290 . 4292) (4227 . 4229) (4166 . 4168) (4106 . 4108) (4044 . 4046) (3983 . 3985) (3920 . 3922) (3858 . 3860) (3788 . 3790) (3719 . 3721) (3652 . 3654) (3586 . 3588) (3530 . 3532) (3477 . 3479) (3425 . 3427) (3376 . 3378) (nil help-echo nil 4574 . 4585) (nil dired-filename nil 4574 . 4585) (nil mouse-face nil 4574 . 4585) (nil help-echo nil 4515 . 4525) (nil dired-filename nil 4515 . 4525) (nil mouse-face nil 4515 . 4525) (nil help-echo nil 4442 . 4466) (nil dired-filename nil 4442 . 4466) (nil mouse-face nil 4442 . 4466) (nil help-echo nil 4370 . 4393) (nil dired-filename nil 4370 . 4393) (nil mouse-face nil 4370 . 4393) (nil help-echo nil 4308 . 4321) (nil dired-filename nil 4308 . 4321) (nil mouse-face nil 4308 . 4321) (nil help-echo nil 4247 . 4259) (nil dired-filename nil 4247 . 4259) (nil mouse-face nil 4247 . 4259) (nil help-echo nil 4188 . 4198) (nil dired-filename nil 4188 . 4198) (nil mouse-face nil 4188 . 4198) (nil help-echo nil 4130 . 4139) (nil dired-filename nil 4130 . 4139) (nil mouse-face nil 4130 . 4139) (nil help-echo nil 4070 . 4081) (nil dired-filename nil 4070 . 4081) (nil mouse-face nil 4070 . 4081) (nil help-echo nil 4011 . 4021) (nil dired-filename nil 4011 . 4021) (nil mouse-face nil 4011 . 4021) (nil help-echo nil 3950 . 3962) (nil dired-filename nil 3950 . 3962) (nil mouse-face nil 3950 . 3962) (nil help-echo nil 3890 . 3901) (nil dired-filename nil 3890 . 3901) (nil mouse-face nil 3890 . 3901) (nil help-echo nil 3822 . 3841) (nil dired-filename nil 3822 . 3841) (nil mouse-face nil 3822 . 3841) (nil help-echo nil 3755 . 3773) (nil dired-filename nil 3755 . 3773) (nil mouse-face nil 3755 . 3773) (nil help-echo nil 3690 . 3706) (nil dired-filename nil 3690 . 3706) (nil mouse-face nil 3690 . 3706) (nil help-echo nil 3626 . 3641) (nil dired-filename nil 3626 . 3641) (nil mouse-face nil 3626 . 3641) (nil help-echo nil 3572 . 3577) (nil dired-filename nil 3572 . 3577) (nil mouse-face nil 3572 . 3577) (nil help-echo nil 3521 . 3523) (nil dired-filename nil 3521 . 3523) (nil mouse-face nil 3521 . 3523) (nil help-echo nil 3471 . 3472) (nil dired-filename nil 3471 . 3472) (nil mouse-face nil 3471 . 3472) (3403 . 3422) (#("total" 0 5 (fontified nil)) . -3376) (3381 . 3404) (3376 . 4549) ("total 128
+drwxr-xr-x  19 miitsy  staff   646 Apr 19 13:06 .
+drwxr-xr-x  25 miitsy  staff   850 Apr 14 13:36 ..
+drwxr-xr-x   7 miitsy  staff   238 Dec 27 22:45 admin
+-rw-r--r--   1 miitsy  staff   388 Mar 16 07:33 fileupload.html
+-rw-r--r--   1 miitsy  staff   358 Mar 15 22:36 fileupload.html~
+-rw-r--r--   1 miitsy  staff   541 Jan  8 15:10 genericlayout.html
+-rw-r--r--   1 miitsy  staff   555 Nov 18 15:20 genericlayout.html~
+-rw-r--r--   1 miitsy  staff   895 Apr 19 13:06 global.html
+-rw-r--r--   1 miitsy  staff   856 Apr 15 08:51 global.html~
+-rw-r--r--   1 miitsy  staff   666 Jan  8 14:54 index.html
+-rw-r--r--   1 miitsy  staff   665 Nov 17 12:26 index.html~
+-rw-r--r--   1 miitsy  staff   840 Nov 17 12:25 news.html
+-rw-r--r--   1 miitsy  staff   838 Nov 17 12:16 news.html~
+-rw-r--r--   1 miitsy  staff   900 Nov 17 12:25 profile.html
+-rw-r--r--   1 miitsy  staff   899 Nov 17 12:16 profile.html~
+-rw-r--r--   1 miitsy  staff   346 Mar 16 07:24 success_fileupload.html
+-rw-r--r--   1 miitsy  staff   349 Mar 15 22:38 success_fileupload.html~
+-rw-r--r--   1 miitsy  staff  1105 Apr 15 10:45 works.html
+-rw-r--r--   1 miitsy  staff  1091 Apr 14 22:33 works.html~
+" . 3376) (3376 . 4549) ("total 128
+drwxr-xr-x  19 miitsy  staff   646 Apr 19 13:06 .
+drwxr-xr-x  25 miitsy  staff   850 Apr 14 13:36 ..
+drwxr-xr-x   7 miitsy  staff   238 Dec 27 22:45 admin
+-rw-r--r--   1 miitsy  staff   388 Mar 16 07:33 fileupload.html
+-rw-r--r--   1 miitsy  staff   358 Mar 15 22:36 fileupload.html~
+-rw-r--r--   1 miitsy  staff   541 Jan  8 15:10 genericlayout.html
+-rw-r--r--   1 miitsy  staff   555 Nov 18 15:20 genericlayout.html~
+-rw-r--r--   1 miitsy  staff   895 Apr 19 13:06 global.html
+-rw-r--r--   1 miitsy  staff   856 Apr 15 08:51 global.html~
+-rw-r--r--   1 miitsy  staff   666 Jan  8 14:54 index.html
+-rw-r--r--   1 miitsy  staff   665 Nov 17 12:26 index.html~
+-rw-r--r--   1 miitsy  staff   840 Nov 17 12:25 news.html
+-rw-r--r--   1 miitsy  staff   838 Nov 17 12:16 news.html~
+-rw-r--r--   1 miitsy  staff   900 Nov 17 12:25 profile.html
+-rw-r--r--   1 miitsy  staff   899 Nov 17 12:16 profile.html~
+-rw-r--r--   1 miitsy  staff   346 Mar 16 07:24 success_fileupload.html
+-rw-r--r--   1 miitsy  staff   349 Mar 15 22:38 success_fileupload.html~
+-rw-r--r--   1 miitsy  staff  1105 Apr 15 10:45 works.html
+-rw-r--r--   1 miitsy  staff  1091 Apr 14 22:33 works.html~
+" . 3376) (3375 . 4549) 1241 (t 20360 . 65253) nil (1607 . 1664) (3248 . 3250) (3179 . 3181) (3115 . 3117) (3054 . 3056) (2994 . 2996) (2932 . 2934) (2871 . 2873) (2811 . 2813) (2752 . 2754) (2697 . 2699) (2635 . 2637) (2574 . 2576) (2518 . 2520) (2456 . 2458) (2395 . 2397) (2330 . 2332) (2266 . 2268) (2204 . 2206) (2143 . 2145) (2080 . 2082) (2017 . 2019) (1960 . 1962) (1881 . 1883) (1824 . 1826) (1763 . 1765) (1709 . 1711) (1656 . 1658) (1607 . 1609) (nil help-echo nil 3243 . 3261) (nil dired-filename nil 3243 . 3261) (nil mouse-face nil 3243 . 3261) (nil help-echo nil 3176 . 3193) (nil dired-filename nil 3176 . 3193) (nil mouse-face nil 3176 . 3193) (nil help-echo nil 3114 . 3126) (nil dired-filename nil 3114 . 3126) (nil mouse-face nil 3114 . 3126) (nil help-echo nil 3055 . 3064) (nil dired-filename nil 3055 . 3064) (nil mouse-face nil 3055 . 3064) (nil help-echo nil 2997 . 3005) (nil dired-filename nil 2997 . 3005) (nil mouse-face nil 2997 . 3005) (nil help-echo nil 2937 . 2947) (nil dired-filename nil 2937 . 2947) (nil mouse-face nil 2937 . 2947) (nil help-echo nil 2878 . 2887) (nil dired-filename nil 2878 . 2887) (nil mouse-face nil 2878 . 2887) (nil help-echo nil 2820 . 2828) (nil dired-filename nil 2820 . 2828) (nil mouse-face nil 2820 . 2828) (nil help-echo nil 2763 . 2770) (nil dired-filename nil 2763 . 2770) (nil mouse-face nil 2763 . 2770) (nil help-echo nil 2710 . 2713) (nil dired-filename nil 2710 . 2713) (nil mouse-face nil 2710 . 2713) (nil help-echo nil 2650 . 2660) (nil dired-filename nil 2650 . 2660) (nil mouse-face nil 2650 . 2660) (nil help-echo nil 2591 . 2600) (nil dired-filename nil 2591 . 2600) (nil mouse-face nil 2591 . 2600) (nil help-echo nil 2537 . 2541) (nil dired-filename nil 2537 . 2541) (nil mouse-face nil 2537 . 2541) (nil help-echo nil 2477 . 2487) (nil dired-filename nil 2477 . 2487) (nil mouse-face nil 2477 . 2487) (nil help-echo nil 2418 . 2427) (nil dired-filename nil 2418 . 2427) (nil mouse-face nil 2418 . 2427) (nil help-echo nil 2355 . 2368) (nil dired-filename nil 2355 . 2368) (nil mouse-face nil 2355 . 2368) (nil help-echo nil 2293 . 2305) (nil dired-filename nil 2293 . 2305) (nil mouse-face nil 2293 . 2305) (nil help-echo nil 2233 . 2243) (nil dired-filename nil 2233 . 2243) (nil mouse-face nil 2233 . 2243) (nil help-echo nil 2174 . 2183) (nil dired-filename nil 2174 . 2183) (nil mouse-face nil 2174 . 2183) (nil help-echo nil 2113 . 2124) (nil dired-filename nil 2113 . 2124) (nil mouse-face nil 2113 . 2124) (nil help-echo nil 2052 . 2063) (nil dired-filename nil 2052 . 2063) (nil mouse-face nil 2052 . 2063) (nil help-echo nil 1997 . 2002) (nil dired-filename nil 1997 . 2002) (nil mouse-face nil 1997 . 2002) (nil help-echo nil 1920 . 1947) (nil dired-filename nil 1920 . 1947) (nil mouse-face nil 1920 . 1947) (nil help-echo nil 1865 . 1870) (nil dired-filename nil 1865 . 1870) (nil mouse-face nil 1865 . 1870) (nil help-echo nil 1806 . 1815) (nil dired-filename nil 1806 . 1815) (nil mouse-face nil 1806 . 1815) (nil help-echo nil 1754 . 1756) (nil dired-filename nil 1754 . 1756) (nil mouse-face nil 1754 . 1756) (nil help-echo nil 1703 . 1704) (nil dired-filename nil 1703 . 1704) (nil mouse-face nil 1703 . 1704) (1634 . 1653) (#("total" 0 5 (fontified nil)) . -1607) (1612 . 1635) (1607 . 3225) ("total 304
+drwxr-xr-x  27 miitsy  staff    918 Apr 15 10:49 .
+drwxr-xr-x  25 miitsy  staff    850 Apr 14 13:36 ..
+-rw-r--r--   1 miitsy  staff  15364 Mar 25 14:30 .DS_Store
+drwxr-xr-x   5 miitsy  staff    170 Dec 15 12:36 admin
+-rw-r--r--   1 miitsy  staff     53 Oct 31 00:09 google953f1e0a937c6daf.html
+drwxr-xr-x  11 miitsy  staff    374 Jan  8 12:10 image
+-rw-r--r--   1 miitsy  staff   1295 Oct 30 23:28 index.html~
+-rw-r--r--@  1 miitsy  staff  37019 Jan  8 12:09 profile.jpg
+-rw-r--r--   1 miitsy  staff    863 Apr 14 14:00 script.js
+-rw-r--r--   1 miitsy  staff    857 Apr 14 13:51 script.js~
+-rw-r--r--   1 miitsy  staff   5226 Apr 15 09:38 slideshow.js
+-rw-r--r--   1 miitsy  staff   5190 Apr 15 09:37 slideshow.js~
+-rw-r--r--   1 miitsy  staff   4584 Apr 15 08:19 style.css
+-rw-r--r--   1 miitsy  staff   4572 Jan  8 15:12 style.css~
+drwxr-xr-x   3 miitsy  staff    102 Mar 16 07:36 test
+-rw-r--r--   1 miitsy  staff    655 Nov  5 13:07 test.html
+-rw-r--r--   1 miitsy  staff    330 Nov  5 21:03 test2.html
+drwxr-xr-x   2 miitsy  staff     68 Mar 25 19:43 tmp
+-rw-r--r--   1 miitsy  staff    451 Apr 14 14:07 util.js
+-rw-r--r--   1 miitsy  staff    470 Apr 14 14:05 util.js~
+-rw-r--r--   1 miitsy  staff   1506 Apr 15 08:21 works.css
+-rw-r--r--   1 miitsy  staff   2007 Apr 14 22:24 works.css~
+-rw-r--r--   1 miitsy  staff   1316 Apr 15 10:49 works.js
+-rw-r--r--   1 miitsy  staff   1295 Apr 14 14:13 works.js~
+-rw-r--r--   1 miitsy  staff   5096 Dec 24 21:28 works_old.js
+-rw-r--r--   1 miitsy  staff     83 Apr 14 12:02 works_preload.css
+-rw-r--r--   1 miitsy  staff   1959 Apr 14 12:01 works_preload.css~
+" . 1607) (1607 . 3225) ("total 304
+drwxr-xr-x  27 miitsy  staff    918 Apr 15 10:49 .
+drwxr-xr-x  25 miitsy  staff    850 Apr 14 13:36 ..
+-rw-r--r--   1 miitsy  staff  15364 Mar 25 14:30 .DS_Store
+drwxr-xr-x   5 miitsy  staff    170 Dec 15 12:36 admin
+-rw-r--r--   1 miitsy  staff     53 Oct 31 00:09 google953f1e0a937c6daf.html
+drwxr-xr-x  11 miitsy  staff    374 Jan  8 12:10 image
+-rw-r--r--   1 miitsy  staff   1295 Oct 30 23:28 index.html~
+-rw-r--r--@  1 miitsy  staff  37019 Jan  8 12:09 profile.jpg
+-rw-r--r--   1 miitsy  staff    863 Apr 14 14:00 script.js
+-rw-r--r--   1 miitsy  staff    857 Apr 14 13:51 script.js~
+-rw-r--r--   1 miitsy  staff   5226 Apr 15 09:38 slideshow.js
+-rw-r--r--   1 miitsy  staff   5190 Apr 15 09:37 slideshow.js~
+-rw-r--r--   1 miitsy  staff   4584 Apr 15 08:19 style.css
+-rw-r--r--   1 miitsy  staff   4572 Jan  8 15:12 style.css~
+drwxr-xr-x   3 miitsy  staff    102 Mar 16 07:36 test
+-rw-r--r--   1 miitsy  staff    655 Nov  5 13:07 test.html
+-rw-r--r--   1 miitsy  staff    330 Nov  5 21:03 test2.html
+drwxr-xr-x   2 miitsy  staff     68 Mar 25 19:43 tmp
+-rw-r--r--   1 miitsy  staff    451 Apr 14 14:07 util.js
+-rw-r--r--   1 miitsy  staff    470 Apr 14 14:05 util.js~
+-rw-r--r--   1 miitsy  staff   1506 Apr 15 08:21 works.css
+-rw-r--r--   1 miitsy  staff   2007 Apr 14 22:24 works.css~
+-rw-r--r--   1 miitsy  staff   1316 Apr 15 10:49 works.js
+-rw-r--r--   1 miitsy  staff   1295 Apr 14 14:13 works.js~
+-rw-r--r--   1 miitsy  staff   5096 Dec 24 21:28 works_old.js
+-rw-r--r--   1 miitsy  staff     83 Apr 14 12:02 works_preload.css
+-rw-r--r--   1 miitsy  staff   1959 Apr 14 12:01 works_preload.css~
+" . 1607) (1606 . 3225) 685 (t 20360 . 65253)))

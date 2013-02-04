@@ -1,0 +1,2 @@
+
+((digest . "790d771b1c39edfe24ab0c1c6790bd19") (undo-list nil (24 . 25) (t 20293 . 30165) nil (119 . 120) 24 nil (21 . 24) nil (1 . 21) nil (1 . 2) nil (83 . 95) nil (75 . 83) nil (74 . 75) nil (73 . 74) nil (64 . 73) nil (#("a" 0 1 (fontified t)) . -64) nil (63 . 65) nil (59 . 63) nil (58 . 59) nil (57 . 58) nil (54 . 57) nil (#("m" 0 1 (fontified t)) . -54) nil (45 . 55) nil (25 . 45) nil (24 . 25) nil (21 . 24) nil (1 . 21) (t 65535 . 65535)))

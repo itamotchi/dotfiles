@@ -1,0 +1,4 @@
+
+((digest . "12774938e8b1912175893200552adc12") (undo-list nil (149 . 150) nil (148 . 149) nil (143 . 147) (143 . 144) nil (142 . 143) nil (141 . 142) nil (140 . 141) nil (139 . 140) nil (125 . 139) nil (117 . 125) nil (116 . 117) nil (115 . 116) nil (114 . 115) nil (113 . 114) nil (102 . 113) nil (#("r" 0 1 (fontified t)) . -102) nil (88 . 103) nil (#("g" 0 1 (fontified t)) . -88) nil (83 . 89) nil (75 . 83) nil (74 . 75) nil (73 . 74) nil (#("
+" 0 1 (fontified t)) . -73) nil (73 . 74) nil (72 . 73) nil (71 . 72) nil (69 . 71) nil (#("f" 0 1 (fontified t face font-lock-variable-name-face)) . -69) nil (66 . 70) nil (65 . 66) nil (#("
+" 0 1 (fontified t)) . -65) nil (65 . 66) nil (56 . 65) nil (52 . 56) nil (32 . 52) nil (28 . 32) nil (27 . 28) nil (26 . 27) nil (21 . 26) nil (1 . 21) (t 65535 . 65535)))

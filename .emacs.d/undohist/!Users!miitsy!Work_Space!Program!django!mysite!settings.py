@@ -1,0 +1,2 @@
+
+((digest . "cbee69abbc1d6bca89e411dc69010a33") (undo-list nil (1146 . 1148) nil (#("e" 0 1 (fontified t face font-lock-string-face)) . -1146) nil (#("y" 0 1 (fontified t face font-lock-string-face)) . -1147) nil (1138 . 1148) nil (#("/Chicago" 0 8 (fontified t face font-lock-string-face)) . 1138) ((marker) . -8) nil (#("America" 0 7 (fontified t face font-lock-string-face)) . 1138) (t 19903 . 52546) ((marker) . -7)))

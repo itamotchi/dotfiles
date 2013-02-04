@@ -1,0 +1,2 @@
+
+((digest . "81f92addd2bf81a39cfdb816125df466") (undo-list (92 . 93) 91 nil (88 . 91) nil (#("e" 0 1 (fontified t)) . -88) nil (#("k" 0 1 (fontified t)) . -89) nil (86 . 90) nil (#("Poll" 0 4 (fontified t)) . 86) ((marker) . -4) nil (30 . 31) nil (#("d" 0 1 (fontified t)) . -30) nil (26 . 31) nil (#("Poll" 0 4 (fontified t)) . 26) ((marker) . -4) nil (6 . 11) nil (#("polls" 0 5 (fontified t)) . 6) ((marker) . -5) nil (nil rear-nonsticky nil 89 . 90) (nil fontified nil 1 . 90) (1 . 90) (t 65535 . 65535)))

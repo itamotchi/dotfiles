@@ -1,0 +1,4 @@
+
+((digest . "3a6d8c36b55399404d81263fab558bff") (undo-list nil (#("
+" 0 1 (fontified t)) . 3298) ((marker) . -1) ((marker) . -1) ((marker) . -1) nil (#("    paging.globalMove(1);" 0 25 (fontified t)) . 3298) (t 20698 . 41485) ((marker) . -25) nil (2631 . 2633) (2626 . 2630) nil (#("Prev" 0 4 (fontified t)) . 2626) nil (2576 . 2577) (2571 . 2575) nil (#("Next" 0 4 (fontified t)) . 2571) nil (3317 . 3318) (3312 . 3316) nil (#("Next" 0 4 (fontified t)) . 3312) (t 20698 . 41388) nil (3318 . 3319) nil (3317 . 3318) nil (3316 . 3317) nil (3299 . 3316) nil (3295 . 3299) nil (3294 . 3295) nil (#("
+" 0 1 (fontified t)) . 3295) nil (#("    paging." 0 11 (fontified t)) . 3295) nil (3299 . 3306) nil (3295 . 3299) nil (3294 . 3295) (t 20698 . 33446) nil (368 . 369) (t 20698 . 33013) nil (nil rear-nonsticky nil 3309 . 3310) (nil fontified nil 1 . 3310) (1 . 3310) (t 65535 . 65535)))

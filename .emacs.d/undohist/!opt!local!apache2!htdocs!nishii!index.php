@@ -1,0 +1,2 @@
+
+((digest . "ad1c5a279964e1af107d7bea07ab4c91") (undo-list nil (376 . 377) nil (#("/" 0 1 (fontified t face font-lock-string-face)) . 376) nil (376 . 377) nil (374 . 376) (t 20117 . 14455) nil (#("db" 0 2 (fontified t face font-lock-string-face)) . 374) ((marker . 265) . -2) nil (#("/" 0 1 (fontified t face font-lock-string-face)) . 376) (t 20117 . 14408) ((marker . 265) . -1) nil (376 . 377) nil (374 . 376) (t 20117 . 12685)))

@@ -1,0 +1,2 @@
+
+((digest . "5b1f331cd902cf465617279848986fdc") (undo-list nil (174 . 178) (#("                       " 0 23 (fontified t)) . 174) nil (nil rear-nonsticky nil 239 . 240) (nil fontified nil 239 . 240) (nil fontified nil 211 . 239) (nil fontified nil 202 . 211) (nil fontified nil 174 . 202) (174 . 240) nil (nil rear-nonsticky nil 141 . 142) (nil fontified nil 113 . 142) (nil fontified nil 107 . 113) (nil fontified nil 91 . 107) (nil fontified nil 87 . 91) (87 . 142) (t 20707 . 41550) nil (525 . 528) nil (#("MEDIA" 0 5 (fontified t)) . 525) (t 20688 . 24419)))

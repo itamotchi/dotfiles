@@ -1,0 +1,3 @@
+
+((digest . "14f24ab0909e8b9e434ad1ef959b67ee") (undo-list nil (nil rear-nonsticky nil 1390 . 1391) (nil fontified nil 1390 . 1391) (nil fontified nil 1383 . 1390) (nil fontified nil 1363 . 1383) (1363 . 1391) nil (#("
+" 0 1 (fontified t)) . 1363) ((marker) . -1) ((marker) . -1) ((marker) . -1) nil (#("        app_label = 'myapp'" 0 20 (fontified t) 20 27 (fontified t face font-lock-string-face)) . 1363) (t 20604 . 45983) ((marker) . -27) nil (1371 . 1390) nil (#("s" 0 1 (fontified t)) . -1371) nil (#("p" 0 1 (fontified t)) . -1372) nil (1371 . 1373) nil (1363 . 1371) nil (1362 . 1363) (t 20604 . 45003)))

@@ -1,0 +1,145 @@
+
+((digest . "270a0d2defb69ec40b595cab780c097d") (undo-list nil (#("}
+table#contents {
+	margin-top:1em;
+}
+#contents table {
+	width:100%;
+}
+table th,
+table td {
+	padding:0.25em 0.5em;
+	border:1px solid #CBB;
+}
+table th {
+	background:#FcE9E9;
+}
+table tbody th {
+	width:10em;
+}
+table th small {
+	color:#c00;
+	font-weight:normal;
+}
+/*	Login ----------*/
+form#loginForm {
+	max-width:24em;
+	margin:1em auto;
+}
+form#loginForm fieldset {
+	padding:0 1em 1em;
+	border-color:#BAA;
+	background:#FcF3F3;
+}
+form#loginForm fieldset legend {
+	padding:0 0.5em;
+}
+form#loginForm fieldset p a {
+	width:8em;
+	font-size:90%;
+	padding:0 0.2em;
+}
+/*	ItemTable ----------*/
+.Item_ID,
+.Breakout_Date,
+.Breakout_Pieces,
+.Breakout_Status {
+	text-align:center;
+}
+.Item_Price,
+.Breakout_Amount {
+	text-align:right;
+}
+tfoot td {
+	border:none;
+	text-align:right;
+	font-size:110%;
+	font-weight:bold;
+}
+.Breakout_Pieces input {
+	text-align:right;
+}
+/*	FAQ List ----------*/
+.FAQ-List dl dt {
+	color:#966;
+}
+.FAQ-List dl dd {
+	color:#699;
+}
+/*      Pager ---------- */
+ul.pager {
+    font-size: 125%;
+    font-family: 'Arial Black';
+    list-style-type: none;
+}
+ul.pager li {
+    display: inline;
+    margin-right: 1em;
+}
+ul.pager li.current {
+    font-size: 200%;
+}
+" 0 2 (fontified t) 2 17 (fontified t face (css-selector)) 17 19 (fontified t) 19 20 (fontified t) 20 30 (fontified t face css-property) 30 38 (fontified t) 38 54 (fontified t face (css-selector)) 54 57 (fontified t) 57 62 (fontified t face css-property) 62 81 (fontified t) 81 90 (fontified t face (css-selector)) 90 93 (fontified t) 93 100 (fontified t face css-property) 100 116 (fontified t) 116 122 (fontified t face css-property) 122 141 (fontified t) 141 150 (fontified t face (css-selector)) 150 153 (fontified t) 153 163 (fontified t face css-property) 163 175 (fontified t) 175 190 (fontified t face (css-selector)) 190 193 (fontified t) 193 198 (fontified t face css-property) 198 207 (fontified t) 207 222 (fontified t face (css-selector)) 222 225 (fontified t) 225 230 (fontified t face css-property) 230 238 (fontified t) 238 249 (fontified t face css-property) 249 260 (fontified t) 260 263 (fontified t face font-lock-comment-delimiter-face) 263 279 (fontified t face font-lock-comment-face) 279 281 (fontified t face font-lock-comment-delimiter-face) 281 282 (fontified t) 282 297 (fontified t face (css-selector)) 297 300 (fontified t) 300 309 (fontified t face css-property) 309 317 (fontified t) 317 323 (fontified t face css-property) 323 336 (fontified t) 336 360 (fontified t face (css-selector)) 360 363 (fontified t) 363 370 (fontified t face css-property) 370 383 (fontified t) 383 395 (fontified t face css-property) 395 403 (fontified t) 403 413 (fontified t face css-property) 413 425 (fontified t) 425 456 (fontified t face (css-selector)) 456 459 (fontified t) 459 466 (fontified t face css-property) 466 478 (fontified t) 478 506 (fontified t face (css-selector)) 506 509 (fontified t) 509 514 (fontified t face css-property) 514 520 (fontified t) 521 530 (face css-property) 537 544 (face css-property) 556 559 (face font-lock-comment-delimiter-face) 559 579 (face font-lock-comment-face) 579 581 (face font-lock-comment-delimiter-face) 626 643 (face (css-selector)) 645 646 (fontified t) 646 656 (fontified t face css-property) 656 680 (fontified t) 680 697 (fontified t face (css-selector)) 697 700 (fontified t) 700 710 (fontified t face css-property) 710 720 (fontified t) 720 729 (fontified t face (css-selector)) 729 732 (fontified t) 732 738 (fontified t face css-property) 738 746 (fontified t) 746 756 (fontified t face css-property) 756 765 (fontified t) 765 774 (fontified t face css-property) 774 782 (fontified t) 782 793 (fontified t face css-property) 793 802 (fontified t) 802 825 (fontified t face (css-selector)) 825 828 (fontified t) 828 838 (fontified t face css-property) 838 848 (fontified t) 848 851 (fontified t face font-lock-comment-delimiter-face) 851 870 (fontified t face font-lock-comment-face) 870 872 (fontified t face font-lock-comment-delimiter-face) 872 873 (fontified t) 873 889 (fontified t face (css-selector)) 889 892 (fontified t) 892 897 (fontified t face css-property) 897 906 (fontified t) 906 922 (fontified t face (css-selector)) 922 925 (fontified t) 925 930 (fontified t face css-property) 930 939 (fontified t) 939 947 (fontified t face font-lock-comment-delimiter-face) 947 964 (fontified t face font-lock-comment-face) 964 966 (fontified t face font-lock-comment-delimiter-face) 966 967 (fontified t) 967 976 (fontified t face (css-selector)) 976 982 (fontified t) 982 991 (fontified t face css-property) 991 1003 (fontified t) 1003 1014 (fontified t face css-property) 1014 1016 (fontified t) 1016 1029 (fontified t face font-lock-string-face) 1029 1031 (fontified t) 1031 1035 (fontified t) 1035 1050 (fontified t face css-property) 1050 1060 (fontified t) 1060 1072 (fontified t face (css-selector)) 1072 1078 (fontified t) 1078 1085 (fontified t face css-property) 1085 1099 (fontified t) 1099 1111 (fontified t face css-property) 1111 1120 (fontified t) 1120 1140 (fontified t face (css-selector)) 1140 1146 (fontified t) 1146 1155 (fontified t face css-property) 1155 1163 (fontified t) 1163 1165 (fontified t)) . -19) ((marker) . -906) ((marker) . -906) ((marker) . -924) ((marker) . -924) ((marker) . -937) ((marker) . -937) ((marker) . -939) ((marker) . -939) ((marker) . -967) ((marker) . -967) ((marker) . -978) ((marker) . -978) ((marker) . -999) ((marker) . -999) ((marker) . -1031) ((marker) . -1031) ((marker) . -1058) ((marker) . -1058) ((marker) . -1060) ((marker) . -1060) ((marker) . -1074) ((marker) . -1074) ((marker) . -1095) ((marker) . -1095) ((marker) . -1118) ((marker) . -1118) ((marker) . -1120) ((marker) . -1120) ((marker) . -1142) ((marker) . -1142) ((marker) . -1163) ((marker) . -1163) ((marker) . -645) ((marker) . -645) ((marker) . -665) ((marker) . -665) ((marker) . -667) ((marker) . -667) ((marker) . -680) ((marker) . -680) ((marker) . -699) ((marker) . -699) ((marker) . -718) ((marker) . -718) ((marker) . -720) ((marker) . -720) ((marker) . -731) ((marker) . -731) ((marker) . -745) ((marker) . -745) ((marker) . -764) ((marker) . -764) ((marker) . -781) ((marker) . -781) ((marker) . -800) ((marker) . -800) ((marker) . -802) ((marker) . -802) ((marker) . -827) ((marker) . -827) ((marker) . -846) ((marker) . -846) ((marker) . -848) ((marker) . -848) ((marker) . -873) ((marker) . -873) ((marker) . -891) ((marker) . -891) ((marker) . -904) ((marker) . -904) ((marker . 1) . -645) ((marker) . -1165) nil (#("
+/* ---------- Contents ----------*/
+#contents h1 {
+	font-size:300%;
+	line-height:1.25;
+	text-shadow:0.075em 0.075em 0.125em #CCC;
+}
+#contents h2 {
+	font-size:110%;
+	color:#fff;
+	background:#827272;
+	padding:0.1em 0.4em;
+	margin:0.75em 0;
+}
+#contents p {
+	margin:0.5em 1em;
+}
+#contents * p {
+	margin:0.5em 0;
+}
+#contents ol,
+#contents ul {
+	padding-left:2em;
+	margin:1em;
+}
+#contents ol li ol {
+	list-style-type:lower-alpha;
+	margin:0 1em;
+}
+#contents ol li,
+#contents ul li {
+	margin:0.25em 0;
+}
+#contents > ol > li {
+	padding-bottom:0.75em;
+	border-bottom:1px dashed #BAA;
+	margin-bottom:0.75em;
+}
+#contents dt,
+#contents dd {
+	margin-bottom:0.25em;
+}
+#contents dt {
+	font-weight:bold;
+}
+#contents dt em,
+#contents dd em {
+	font-size:200%;
+	font-family:'Arial Black';
+}
+#contents section {
+	padding-top:0.5em;
+	border-top:1px dashed #BAA;
+	margin-top:1em;
+}
+form input,
+button {
+	padding:0.1em 0.3em;
+}
+/*	TableSet ----------*/
+table {
+	line-height:1.25;
+	border-collapse:collapse;
+" 0 1 (fontified t) 1 4 (fontified t face font-lock-comment-delimiter-face) 4 34 (fontified t face font-lock-comment-face) 34 36 (fontified t face font-lock-comment-delimiter-face) 36 37 (fontified t) 37 50 (fontified t face (css-selector)) 50 53 (fontified t) 53 62 (fontified t face css-property) 62 70 (fontified t) 70 81 (fontified t face css-property) 81 89 (fontified t) 89 100 (fontified t face css-property) 100 133 (fontified t) 133 146 (fontified t face (css-selector)) 146 149 (fontified t) 149 158 (fontified t face css-property) 158 166 (fontified t) 166 171 (fontified t face css-property) 171 179 (fontified t) 179 189 (fontified t face css-property) 189 200 (fontified t) 200 207 (fontified t face css-property) 207 222 (fontified t) 222 228 (fontified t face css-property) 228 241 (fontified t) 241 253 (fontified t face (css-selector)) 253 256 (fontified t) 256 262 (fontified t face css-property) 262 276 (fontified t) 276 290 (fontified t face (css-selector)) 290 293 (fontified t) 293 299 (fontified t face css-property) 299 325 (fontified t) 325 338 (fontified t face (css-selector)) 338 341 (fontified t) 341 353 (fontified t face css-property) 353 360 (fontified t) 360 366 (fontified t face css-property) 366 374 (fontified t) 374 393 (fontified t face (css-selector)) 393 396 (fontified t) 396 411 (fontified t face css-property) 411 426 (fontified t) 426 432 (fontified t face css-property) 432 459 (fontified t) 459 475 (fontified t face (css-selector)) 475 478 (fontified t) 478 484 (fontified t face css-property) 484 495 (fontified t) 495 497 (fontified t) 497 517 (fontified t face (css-selector)) 517 520 (fontified t) 520 534 (fontified t face css-property) 534 544 (fontified t) 544 557 (fontified t face css-property) 557 576 (fontified t) 576 589 (fontified t face css-property) 589 614 (fontified t) 614 627 (fontified t face (css-selector)) 627 630 (fontified t) 630 643 (fontified t face css-property) 643 654 (fontified t) 654 667 (fontified t face (css-selector)) 667 670 (fontified t) 670 681 (fontified t face css-property) 681 707 (fontified t) 707 723 (fontified t face (css-selector)) 723 726 (fontified t) 726 735 (fontified t face css-property) 735 743 (fontified t) 743 754 (fontified t face css-property) 754 755 (fontified t) 755 768 (fontified t face font-lock-string-face) 768 772 (fontified t) 772 790 (fontified t face (css-selector)) 790 793 (fontified t) 793 804 (fontified t face css-property) 804 813 (fontified t) 813 823 (fontified t face css-property) 823 842 (fontified t) 842 852 (fontified t face css-property) 852 872 (fontified t) 872 879 (fontified t face (css-selector)) 879 882 (fontified t) 882 889 (fontified t face css-property) 889 905 (fontified t) 905 908 (fontified t face font-lock-comment-delimiter-face) 908 927 (fontified t face font-lock-comment-face) 927 929 (fontified t face font-lock-comment-delimiter-face) 929 930 (fontified t) 930 936 (fontified t face (css-selector)) 936 939 (fontified t) 939 950 (fontified t face css-property) 950 958 (fontified t) 958 973 (fontified t face css-property) 973 984 (fontified t)) . 19) (t 19847 . 12976) ((marker) . -292) ((marker) . -292) ((marker) . -309) ((marker) . -309) ((marker) . -311) ((marker) . -311) ((marker) . -325) ((marker) . -325) ((marker) . -340) ((marker) . -340) ((marker) . -359) ((marker) . -359) ((marker) . -372) ((marker) . -372) ((marker) . -374) ((marker) . -374) ((marker) . -395) ((marker) . -395) ((marker) . -425) ((marker) . -425) ((marker) . -440) ((marker) . -440) ((marker) . -442) ((marker) . -442) ((marker) . -459) ((marker) . -459) ((marker) . -477) ((marker) . -477) ((marker) . -495) ((marker) . -495) ((marker) . -497) ((marker) . -497) ((marker) . -519) ((marker) . -519) ((marker) . -543) ((marker) . -543) ((marker) . -575) ((marker) . -575) ((marker) . -1) ((marker) . -1) ((marker) . -37) ((marker) . -37) ((marker) . -52) ((marker) . -52) ((marker) . -69) ((marker) . -69) ((marker) . -88) ((marker) . -88) ((marker) . -131) ((marker) . -131) ((marker) . -133) ((marker) . -133) ((marker) . -148) ((marker) . -148) ((marker) . -165) ((marker) . -165) ((marker) . -178) ((marker) . -178) ((marker) . -199) ((marker) . -199) ((marker) . -221) ((marker) . -221) ((marker) . -239) ((marker) . -239) ((marker) . -241) ((marker) . -241) ((marker) . -255) ((marker) . -255) ((marker) . -274) ((marker) . -274) ((marker) . -276) ((marker) . -276) ((marker) . -598) ((marker) . -598) ((marker . 19) . -984) ((marker . 19) . -984) ((marker) . -984)))

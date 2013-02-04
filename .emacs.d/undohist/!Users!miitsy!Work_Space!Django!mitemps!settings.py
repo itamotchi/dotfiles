@@ -1,0 +1,2 @@
+
+((digest . "5bfaf5b3b74cb3ff37da4cdf1669e26b") (undo-list nil (3773 . 3774) nil (3813 . 3819) nil (3793 . 3813) nil (3773 . 3793) nil (3769 . 3773) nil (3768 . 3769) (t 20135 . 39606) nil (1298 . 1300) nil (#("-us" 0 3 (face font-lock-string-face fontified t)) . 1298) nil (#("en" 0 2 (face font-lock-string-face fontified t)) . 1298) nil (1139 . 1149) nil (#("/Chicago" 0 8 (face font-lock-string-face fontified t)) . 1139) nil (#("America" 0 7 (face font-lock-string-face fontified t)) . 1139) (t 20135 . 39535)))
